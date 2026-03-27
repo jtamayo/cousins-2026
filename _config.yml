@@ -1,6 +1,6 @@
 title: Japan 2026
 description: Three itineraries for six people. Pick one.
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 
 # Exclude source files from the built site
 exclude:
