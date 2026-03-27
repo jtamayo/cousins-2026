@@ -6,8 +6,8 @@ description: "Yakushima + Kerama Islands — 12 days"
 # Trip A: Ancient Forests and Turtle Beaches
 ### Yakushima + Kerama Islands — 12 days
 
-![Ancient cedar forest in mist](https://picsum.photos/seed/yakushima-forest/1400/560)
-*Replace with a Yakushima photo — search ["yakushima cedar forest"](https://unsplash.com/s/photos/yakushima-forest) on Unsplash*
+![Ancient Yakushima cedar forest — Jomon Sugi, one of the world's oldest trees](https://res.cloudinary.com/jnto/image/upload/w_1400,h_560,c_fill,f_auto,fl_lossy,q_auto/v1514404696/kagoshima/Kagoshima1783_3)
+*Photo: [JNTO](https://www.japan.travel/en/destinations/kyushu/kagoshima/yakushima/)*
 
 This is the "something extraordinary for everyone" trip. You spend four nights on a UNESCO island so ancient and atmospheric it inspired a Studio Ghibli film, then three nights on a string of small islands in the East China Sea with the clearest water in Japan. No temples, no bullet trains, no cities — this is Japan at its most primal.
 
@@ -76,8 +76,8 @@ The landing zone — the group has been here before, so this isn't a highlights 
 
 ### Yakushima (4 nights)
 
-![Sea turtle nesting on a dark beach at night](https://picsum.photos/seed/sea-turtle-beach/1400/500)
-*Replace with a sea turtle or Yakushima photo — search ["loggerhead sea turtle nesting beach"](https://unsplash.com/s/photos/sea-turtle-nesting) on Unsplash*
+![Crystal-clear tropical water off the Okinawa islands](https://res.cloudinary.com/jnto/image/upload/w_1400,h_500,c_fill,f_auto,fl_lossy,q_auto/v1514407221/okinawa/Okinawa1975_4)
+*Photo: [JNTO](https://www.japan.travel/en/destinations/okinawa/okinawa/)*
 
 Yakushima is a near-circular island about 25km across, with a mountainous interior capped by peaks over 1,900 meters. It receives roughly 8,000-10,000mm of rain annually in its mountain zones — one of the wettest places in East Asia. This is precisely why the cedars grow the way they do. Rain is not bad weather on Yakushima. Rain is the point.
 

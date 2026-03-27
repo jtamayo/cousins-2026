@@ -6,8 +6,8 @@ description: "Hokkaido — 12 days"
 # Trip C: True North
 ### Hokkaido — 12 days
 
-![Rolling patchwork hills of Biei in early summer, Hokkaido](https://picsum.photos/seed/biei-hokkaido-hills/1400/560)
-*Replace with a Hokkaido landscape photo — search ["biei hokkaido farm hills"](https://unsplash.com/s/photos/biei-hokkaido) on Unsplash*
+![Hokkaido summer landscape — wide open skies and rolling green terrain](https://res.cloudinary.com/jnto/image/upload/w_1400,h_560,c_fill,f_auto,fl_lossy,q_auto/v1512444240/hokkaido/Hokkaido1363_2)
+*Photo: [JNTO](https://www.japan.travel/en/destinations/hokkaido/hokkaido/)*
 
 The weather guarantee. This is the only itinerary in this entire set that genuinely sidesteps Japan's rainy season — Hokkaido is the one major region that doesn't get tsuyu. In early-to-mid June, Sapporo is cool and clear, the alpine meadows are turning green, the volcanic peaks still have snow on their upper slopes, and the island has roughly 15 hours of daylight. Add in Japan's best food city, one of the most dramatic volcanic landscapes on earth, a fox and deer population you'll encounter almost daily, and some of the country's most serious hiking, and you have a trip that competes with Iceland or the Scottish Highlands without the uncertainty that comes with every beach-focused June itinerary.
 
@@ -100,8 +100,8 @@ Return to Sapporo for dinner.
 
 ### Sounkyo Gorge / Daisetsuzan (2 nights)
 
-![Asahidake volcanic summit — steam vents and snow on Hokkaido's highest peak](https://picsum.photos/seed/asahidake-volcanic/1400/500)
-*Replace with an Asahidake or Daisetsuzan photo — search ["asahidake hokkaido volcano"](https://unsplash.com/s/photos/asahidake-hokkaido) on Unsplash*
+![Volcanic steam vents and alpine terrain — Hokkaido's Daisetsuzan National Park](https://res.cloudinary.com/jnto/image/upload/w_1400,h_500,c_fill,f_auto,fl_lossy,q_auto/v1514407013/oita/Oita1991_1)
+*Photo: [JNTO](https://www.japan.travel/en/destinations/hokkaido/hokkaido/)*
 
 Pick up rental cars at Sapporo (or at New Chitose on Day 4 and drive to Sapporo). Drive to Sounkyo: about 2.5 hours northeast.
 

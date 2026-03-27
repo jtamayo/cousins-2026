@@ -6,8 +6,8 @@ description: "The Kyushu Circuit — 12 days"
 # Trip B: Fire, Food, and the Hidden Islands
 ### The Kyushu Circuit — 12 days
 
-![Steam rising from a private outdoor onsen bath in a forested valley](https://picsum.photos/seed/kurokawa-onsen-steam/1400/560)
-*Replace with a Kurokawa Onsen photo — search ["kurokawa onsen rotenburo"](https://unsplash.com/s/photos/japanese-onsen-outdoor) on Unsplash*
+![Steam rising over Beppu's volcanic hot springs, Kyushu](https://res.cloudinary.com/jnto/image/upload/w_1400,h_560,c_fill,f_auto,fl_lossy,q_auto/v1514407013/oita/Oita1991_1)
+*Photo: [JNTO](https://www.japan.travel/en/destinations/kyushu/oita/)*
 
 Three nights into this trip you are sitting in a private cedar-and-stone outdoor bath in a Kurokawa valley, steam rising from the water into the cold mountain air, surrounded by forest. The next morning you drive to the edge of one of the world's largest active calderas. A week later you are eating hand-stretched noodles boiled at your table in a remote Pacific island fishing village while planning the morning's sea kayak route to a Gothic church on a cliff. Kyushu is the Japan that experienced travelers haven't done, and it delivers something genuinely different at every stop.
 
@@ -100,8 +100,8 @@ Fukuoka is a compact, extremely walkable city with a justified reputation as Jap
 
 ### Kurokawa Onsen + Aso (2 nights)
 
-![Mt. Aso volcanic caldera — one of the world's largest active calderas](https://picsum.photos/seed/aso-volcano-caldera/1400/500)
-*Replace with a Mt. Aso photo — search ["mount aso volcano crater japan"](https://unsplash.com/s/photos/mount-aso-volcano) on Unsplash*
+![Mt. Aso — one of the world's largest active volcanic calderas, Kumamoto](https://res.cloudinary.com/jnto/image/upload/w_1400,h_500,c_fill,f_auto,fl_lossy,q_auto/v1514403676/kumamoto/Kumamoto1541_8)
+*Photo: [JNTO](https://www.japan.travel/en/destinations/kyushu/kumamoto/)*
 
 Drive from Fukuoka to Kurokawa: ~1.5 hours south on the expressway into the mountains of Kumamoto Prefecture. As you drop into the valley, the ryokan appear through steam and cedar. Check in. Don't plan anything else for arrival day.
 
