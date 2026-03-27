@@ -1,5 +1,13 @@
+---
+title: "Trip C: True North"
+description: "Hokkaido — 12 days"
+---
+
 # Trip C: True North
 ### Hokkaido — 12 days
+
+![Rolling patchwork hills of Biei in early summer, Hokkaido](https://picsum.photos/seed/biei-hokkaido-hills/1400/560)
+*Replace with a Hokkaido landscape photo — search ["biei hokkaido farm hills"](https://unsplash.com/s/photos/biei-hokkaido) on Unsplash*
 
 The weather guarantee. This is the only itinerary in this entire set that genuinely sidesteps Japan's rainy season — Hokkaido is the one major region that doesn't get tsuyu. In early-to-mid June, Sapporo is cool and clear, the alpine meadows are turning green, the volcanic peaks still have snow on their upper slopes, and the island has roughly 15 hours of daylight. Add in Japan's best food city, one of the most dramatic volcanic landscapes on earth, a fox and deer population you'll encounter almost daily, and some of the country's most serious hiking, and you have a trip that competes with Iceland or the Scottish Highlands without the uncertainty that comes with every beach-focused June itinerary.
 
@@ -92,6 +100,9 @@ Return to Sapporo for dinner.
 
 ### Sounkyo Gorge / Daisetsuzan (2 nights)
 
+![Asahidake volcanic summit — steam vents and snow on Hokkaido's highest peak](https://picsum.photos/seed/asahidake-volcanic/1400/500)
+*Replace with an Asahidake or Daisetsuzan photo — search ["asahidake hokkaido volcano"](https://unsplash.com/s/photos/asahidake-hokkaido) on Unsplash*
+
 Pick up rental cars at Sapporo (or at New Chitose on Day 4 and drive to Sapporo). Drive to Sounkyo: about 2.5 hours northeast.
 
 Sounkyo is a dramatic canyon cut by the Ishikari River into the volcanic rock of Daisetsuzan National Park. The canyon walls rise 100-200 meters above the road. The gorge town has hot spring hotels built into the cliff face. In early June, Ryusei and Ginga waterfalls are at full strength.
@@ -110,6 +121,9 @@ Asahidake is the highest peak in Hokkaido (2,291m) and in Daisetsuzan National P
 - Regroup at the ryokan for a full kaiseki dinner.
 
 ### Biei + Furano (2 nights)
+
+![The Blue Pond at Shirogane, Biei — electric turquoise mineral water](https://picsum.photos/seed/blue-pond-biei/1400/500)
+*Replace with the Blue Pond photo — search ["blue pond biei hokkaido shirogane"](https://unsplash.com/s/photos/blue-pond-hokkaido) on Unsplash*
 
 Drive from Sounkyo south through the Hokkaido interior: ~2 hours to the Biei/Furano area.
 

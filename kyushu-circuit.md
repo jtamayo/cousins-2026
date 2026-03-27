@@ -1,5 +1,13 @@
+---
+title: "Trip B: Fire, Food, and the Hidden Islands"
+description: "The Kyushu Circuit — 12 days"
+---
+
 # Trip B: Fire, Food, and the Hidden Islands
 ### The Kyushu Circuit — 12 days
+
+![Steam rising from a private outdoor onsen bath in a forested valley](https://picsum.photos/seed/kurokawa-onsen-steam/1400/560)
+*Replace with a Kurokawa Onsen photo — search ["kurokawa onsen rotenburo"](https://unsplash.com/s/photos/japanese-onsen-outdoor) on Unsplash*
 
 Three nights into this trip you are sitting in a private cedar-and-stone outdoor bath in a Kurokawa valley, steam rising from the water into the cold mountain air, surrounded by forest. The next morning you drive to the edge of one of the world's largest active calderas. A week later you are eating hand-stretched noodles boiled at your table in a remote Pacific island fishing village while planning the morning's sea kayak route to a Gothic church on a cliff. Kyushu is the Japan that experienced travelers haven't done, and it delivers something genuinely different at every stop.
 
@@ -92,6 +100,9 @@ Fukuoka is a compact, extremely walkable city with a justified reputation as Jap
 
 ### Kurokawa Onsen + Aso (2 nights)
 
+![Mt. Aso volcanic caldera — one of the world's largest active calderas](https://picsum.photos/seed/aso-volcano-caldera/1400/500)
+*Replace with a Mt. Aso photo — search ["mount aso volcano crater japan"](https://unsplash.com/s/photos/mount-aso-volcano) on Unsplash*
+
 Drive from Fukuoka to Kurokawa: ~1.5 hours south on the expressway into the mountains of Kumamoto Prefecture. As you drop into the valley, the ryokan appear through steam and cedar. Check in. Don't plan anything else for arrival day.
 
 **Kurokawa Onsen** is a small mountain town — more of a cluster of ryokan than a town — built along the Tanoharu River in a forested gorge. Its reputation is based entirely on its onsen: each ryokan has its own outdoor baths, and the famous "nyuto tegata" passport system lets guests wander between properties' baths. The atmosphere is genuinely what ryokan brochures promise but rarely deliver.
@@ -138,6 +149,9 @@ Nagasaki is one of Japan's most historically charged and visually distinctive ci
 **Nagasaki in rain:** The city actually works very well in rain — the museums, Glover Garden (partially covered), covered shopping arcades (Hamanomachi), and restaurant-dense neighborhoods are all navigable. This is part of why the Kyushu circuit is the most weather-resilient of the three trips.
 
 ### Goto Islands — Fukue (3 nights)
+
+![Dozaki Church on the Goto Islands — Gothic brick church above the Pacific](https://picsum.photos/seed/goto-islands-church/1400/500)
+*Replace with a Goto Islands photo — search ["goto islands church japan"](https://unsplash.com/s/photos/goto-islands-japan) on Unsplash*
 
 Take the jetfoil from Nagasaki Port to Fukue Port: 1 hour 25 minutes across the East China Sea. As you approach, the green hills of Fukuejima rise from the water with a small bay and fishing port below. It looks like somewhere in the Azores or the outer Hebrides. That is not a coincidence — it is the edge of an island chain that for centuries was the most isolated and secretive corner of Japan.
 
