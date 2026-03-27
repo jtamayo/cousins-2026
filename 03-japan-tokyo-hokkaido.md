@@ -1,163 +1,184 @@
 # Option 3: Tokyo + Hokkaido
 
-## Shape
+The weather hedge. Three nights in Tokyo, two nights eating your way through Sapporo, then five nights split between Lake Toya and Niseko for volcanoes, hiking, onsen, and Hokkaido's enormous June daylight. This is the only option that genuinely sidesteps Japan's rainy season.
 
-11 days / 10 nights.
+## At a glance
 
-Number of travel days: 4
+- 11 days / 10 nights
+- Tokyo (3N) → Sapporo (2N) → Lake Toya (2N) → Niseko (3N)
+- 3 travel days, 1 domestic flight
+- Best for: outdoor activities, photography, reliable weather, couples who want nature without roughing it
 
-- Day 1: arrive in Tokyo
-- Day 4: Tokyo -> Sapporo
-- Day 6: Sapporo -> scenic Hokkaido base
-- Day 11: depart via Hokkaido
+## The honest case for this option
 
-- Tokyo: 3 nights
-- Sapporo: 2 nights
-- Scenic Hokkaido base: 5 nights
+**Why pick it:** Hokkaido is the only major region of Japan that doesn't get a formal rainy season (tsuyu). While every other option on this list has you dodging rain across Honshu, Okinawa, or Shikoku, Hokkaido in June delivers comfortable 20-23C (68-73F) days, minimal rain, and 15+ hours of daylight (sunrise around 4 AM, sunset past 7 PM). Sapporo has arguably the best food scene in Japan — miso ramen, soup curry, Genghis Khan grilled lamb, and exceptional seafood. The scenic base gives you hiking, hot springs, rafting, cycling through gorgeous countryside, and a pace that feels like a rural mountain retreat. If your group includes people who want to be active outdoors, this option serves them without compromising comfort for everyone else.
 
-Suggested flights:
+**Why not:** There is no warm-water beach component. Hokkaido in June is Pacific Northwest weather — pleasant, not hot. The scenic portion requires a rental car (public transit is sparse outside Sapporo). And getting home means connecting through Tokyo or another hub, since New Chitose Airport doesn't have direct flights to the US. If your group is primarily motivated by beach time, shopping, or warm-weather resort energy, this option won't deliver.
 
-- SFO to Tokyo nonstop
-- Tokyo to Sapporo domestic flight
-- return home from Hokkaido with an international connection
+## Getting there and back
 
-Transit overview:
+**SFO → Tokyo:** Nonstop on United, ANA, JAL, Zipair. ~11 hours.
 
-- SFO -> Tokyo keeps the start simple
-- Tokyo -> Sapporo is the one extra domestic flight that makes this route work
-- Sapporo -> scenic base is best handled by train plus local transfer or by rental car
-- departure via Hokkaido is less clean than Tokyo or Osaka but keeps the route coherent
+**Departure from Hokkaido:** Fly New Chitose (CTS) → Haneda or Narita (~1.5 hrs), then connect to a nonstop SFO flight. No direct CTS-US flights exist. This is a very common routing and easy to book as a single itinerary. Allow 3+ hours between the domestic arrival and international departure for terminal transfers. Alternatively, book the international roundtrip SFO↔NRT/HND and buy the CTS↔HND domestic legs separately.
 
-## Best timing
+## How you move between sections
 
-Early to mid June is best.
+### Tokyo → Sapporo (Day 4)
 
-## Section highlights
+Domestic flight, Haneda to New Chitose. About **1 hour 45 minutes**. One of the busiest domestic routes in the world — 30-40+ daily flights across ANA, JAL, Skymark, Air Do, Peach, Jetstar. Booking is easy.
 
-### Tokyo
+Cost: ANA/JAL visitor fares (Experience Japan / Japan Explorer Pass) run 5,500-11,000 yen. Budget carriers from ~5,000 yen. Regular full-service fares 10,000-25,000 yen booked in advance.
 
-Overview:
+**Could you take the shinkansen instead?** The Hokkaido Shinkansen currently runs only to Shin-Hakodate-Hokuto in southern Hokkaido (about 4 hours from Tokyo). From there, a limited express to Sapporo adds another 3.5 hours. Total: ~7.5-8 hours. Flying is vastly better unless you want to stop in Hakodate.
 
-- landing zone
-- city autonomy
-- easiest food and shopping section
+### Sapporo → Lake Toya (Day 6)
 
-Activities:
+**By car:** About 2 hours via expressway. Pick up the rental car in Sapporo (or at New Chitose Airport on Day 4 and drive it to Sapporo). For six people, rent a large van (Toyota HiAce class) or two standard cars. International Driving Permits required.
 
-- [Tokyo destination overview](https://www.japan.travel/en/destinations/kanto/tokyo/)
-- [Ueno Zoological Gardens](https://www.japan.travel/en/spot/1674/)
-- [Tokyo Sea Life Park](https://www.japan.travel/en/spot/1637/)
-- [Kiyosumi Garden](https://www.japan.travel/en/spot/1700/)
-- [Shimokitazawa](https://www.japan.travel/en/spot/2108/)
-- Daikanyama / Nakameguro wandering
-- one strong dinner night
+**By train:** JR Limited Express Hokuto from Sapporo to Toya Station — about 1 hour 45 minutes. Then local bus to Lake Toya Onsen resort area (~20 min). This works if you don't want to drive, but you'll be more limited at Lake Toya without a car.
 
-### Sapporo
+### Lake Toya → Niseko (Day 8)
 
-Overview:
+**By car:** About 45 minutes to 1 hour. Easy scenic drive.
 
-- easy city base
-- food-and-comfort reset
-- transition into the outdoors section
+**Without a car:** Limited bus connections. This leg strongly favors having a vehicle.
 
-Activities:
+### Niseko → New Chitose Airport (Day 11)
 
-- [Otaru](https://www.japan.travel/en/spot/2161/)
-- city wandering
-- one strong dinner night
-- market or food hall stop
-- Otaru canal / sushi half-day
+**By car:** About 2-2.5 hours. Return the rental at the airport.
 
-### Scenic Hokkaido base
+## Section by section
 
-Overview:
+### Tokyo (3 nights)
 
-- weather hedge
-- big-nature route
-- strongest outdoors-forward section
+Same landing zone as all options. Daikanyama/Nakameguro, Shimokitazawa, Kiyosumi-Shirakawa. One strong shared dinner. Easy split days.
 
-Activities:
+### Sapporo (2 nights)
 
-- [Niseko](https://www.japan.travel/en/spot/ma_2/) or [Lake Toya](https://www.japan.travel/en/spot/2157/)
-- shared hike
-- trail run
-- ride / cycling day
-- scenic lake day
-- premium resort day
-- farm / animal stop
-- photography day
+Sapporo is not just a transit stop — it's one of Japan's great food cities and genuinely worth two nights.
 
-## Candidate itinerary
+**Food highlights:**
+- **Miso ramen** — Sapporo invented it. Try Ramen Alley (Ramen Yokocho) or any of dozens of excellent standalone shops.
+- **Soup curry** — a Sapporo original. Suage, Garaku, and Picante are well-known spots.
+- **Genghis Khan (Jingisukan)** — grilled lamb on a dome-shaped grill. Iconic Sapporo experience. Daruma in Susukino is the classic.
+- **Sapporo Beer Museum/Garden** — tastings plus Genghis Khan dinner. Touristy but fun.
+- **Nijo Market** — fresh crab, uni, and seafood bowls for breakfast or lunch.
+- **Susukino** — Hokkaido's largest entertainment district, vibrant at night.
+
+**Key experiences:**
+- **Otaru day trip** (half day): 35-50 minutes by JR train from Sapporo. The train runs along the coastline. Otaru has a picturesque canal lined with stone warehouses, exceptional sushi (arguably better value than Sapporo), glass workshops, the original LeTAO cheesecake shop, and sake breweries. A morning-to-afternoon trip is perfect.
+- **Mt. Moiwa** — take the ropeway for panoramic city and mountain views, especially at sunset.
+- **Odori Park** — the green spine of the city. Check if the Yosakoi Soran Festival (massive dance festival) falls during your dates — it's typically in early June.
+
+### Lake Toya (2 nights)
+
+A volcanic caldera lake with a resort town on its shore. Strikingly beautiful, with views of Mt. Usu (active volcano) and Nakajima island in the center.
+
+**What to do:**
+- **Mt. Usu Ropeway** — cable car up the active volcano with views of the crater, the lake, and the Pacific Ocean. Genuinely impressive.
+- **Showa Shinzan** — a mountain that literally emerged from flat farmland during volcanic eruptions in 1943-1945. Remarkable geological oddity right next to the ropeway.
+- **Onsen** — excellent hot spring hotels and public baths along the lake shore.
+- **Nightly fireworks** — Lake Toya runs a fireworks display over the lake every night from late April through October. A unique and lovely thing to stumble into.
+- **Lake activities** — canoeing, kayaking, pleasure boat to Nakajima island.
+- **Day trip to Noboribetsu Onsen** (~45 min drive) — one of Japan's most famous hot spring towns, with a dramatic "Hell Valley" (Jigokudani) of steaming volcanic vents.
+
+**Where to stay:** Several high-quality lakefront ryokan and hotels. Nonokaze Resort and The Lake View Toya Nonokaze Resort are well-regarded. The Windsor Hotel Toya (famous as the 2008 G8 Summit venue) has had ownership changes — verify its current status before booking.
+
+### Niseko (3 nights)
+
+Niseko is famous for winter powder skiing, but summer reveals a different character: rolling green hills, Mt. Yotei (the "Fuji of Hokkaido") as a backdrop, and a peaceful rural atmosphere with solid adventure-tourism infrastructure.
+
+**Summer reality check:** Niseko in summer is not a ghost town, but it is dramatically quieter than winter. Many ski-season restaurants operate reduced hours or close entirely. The vibe is peaceful and rural, not bustling resort. If your group needs nightlife or a wide restaurant selection every evening, this could feel underwhelming. Lean into the retreat pace — cook meals at your rental, soak in onsen, take long evening walks.
+
+**What to do:**
+- **Hiking** — Mt. Yotei is a full-day summit hike (5-8 hours round trip, moderate-to-strenuous, rewarding views). Numerous easier trails in the Niseko range and Annupuri area.
+- **White-water rafting** on the Shiribetsu River. Several outfitters operate in summer. Fun half-day activity.
+- **Cycling** — road cycling through the rolling countryside is spectacular. Mountain biking options are growing.
+- **Onsen hopping** — the Niseko area has excellent natural hot springs scattered around, each with different mineral compositions. This is a highlight.
+- **Day trip to Shakotan Peninsula** (~1 hour drive) — dramatic coastal cliffs, Cape Kamui, and brilliant blue water. Stunning photography.
+- **Farm and food experiences** — cheese and dairy farms, Niseko Brewing (craft beer), local farmers' markets.
+
+**Where to stay:** Summer rates are a fraction of winter prices. A 3-bedroom vacation home or chalet for the group might run $200-400/night total (not per person). Look at Niseko-area property managers, Airbnb, or Booking.com. For a hotel splurge: Higashiyama Niseko Village (Ritz-Carlton affiliate), Park Hyatt Niseko, or Skye Niseko.
+
+## Day-by-day
 
 ### Day 1: Arrive in Tokyo
+- Check in, easy neighborhood walk, casual dinner
 
-- check in
-- easy neighborhood walk
-- early dinner
+### Day 2: Tokyo — shared morning, split afternoon
+- Coffee-and-walk morning together
+- Shared lunch
+- Afternoon split: shopping / active outing / free wandering
+- One strong shared dinner
 
-### Day 2: Tokyo shared city day
-
-- coffee-and-walk morning
-- suggested area: Daikanyama / Nakameguro, or Kiyosumi-Shirakawa if coffee is the priority
-- shared lunch
-- split afternoon
-  - Track A: shopping / vintage / cafes
-  - Track B: gym / run / photo walk
-  - Track C: free city wandering
-- one strong dinner
-
-### Day 3: Tokyo flexible day
-
-- morning free
-- optional [Ueno Zoological Gardens](https://www.japan.travel/en/spot/1674/) or [Tokyo Sea Life Park](https://www.japan.travel/en/spot/1637/) branch
-- optional thrift / shopping branch in [Shimokitazawa](https://www.japan.travel/en/spot/2108/)
-- optional gym / run / photo walk branch
-- easy dinner
+### Day 3: Tokyo — flexible day
+- Morning free
+- Optional zoo, aquarium, or Shimokitazawa
+- Easy dinner
 
 ### Day 4: Fly to Sapporo
+- Morning flight Haneda → New Chitose (~1h45m)
+- Optional: pick up rental car at airport, drive to Sapporo (~50 min) and explore by car; or train to Sapporo (~40 min) and pick up the car on Day 6
+- Check in, explore Sapporo
+- Dinner: Genghis Khan at Daruma or ramen in Susukino
 
-- domestic flight
-- check in
-- easy Sapporo evening
-- good dinner
+### Day 5: Sapporo + Otaru
+- Morning in Sapporo (Nijo Market for seafood breakfast, Odori Park)
+- Midday train to Otaru (~40 min)
+- Otaru: canal, sushi lunch, glass shops, LeTAO, sake tasting
+- Return to Sapporo by late afternoon
+- Evening: Mt. Moiwa ropeway for sunset views, soup curry dinner
 
-### Day 5: Sapporo day
+### Day 6: Drive to Lake Toya
+- Pick up rental car if you haven't yet
+- Drive to Lake Toya (~2 hours)
+- Check in, easy scenic afternoon on the lake shore
+- Onsen soak
+- Dinner at lakefront hotel or ryokan
+- Evening: watch the nightly fireworks from the shore
 
-- city wandering
-- optional [Otaru](https://www.japan.travel/en/spot/2161/) half-day
-- easy night before moving into the rural section
+### Day 7: Lake Toya active day
+- Morning: Mt. Usu Ropeway + Showa Shinzan
+- Lunch in the onsen town
+- Afternoon options:
+  - Lake canoeing or kayaking
+  - Drive to Noboribetsu Onsen for Hell Valley walk and a different onsen experience
+  - Slower afternoon at the hotel with onsen and views
+- Dinner together
 
-### Day 6: Transfer to the scenic base
+### Day 8: Drive to Niseko
+- Morning drive to Niseko (~45 min - 1 hr)
+- Check into vacation rental / hotel
+- Afternoon: settle in, explore the area, first Niseko onsen
+- Easy dinner — cook at the rental or find one of the open summer restaurants
 
-- transfer by train / car
-- likely [Niseko](https://www.japan.travel/en/spot/ma_2/) or [Lake Toya](https://www.japan.travel/en/spot/2157/)
-- check in
-- easy scenic afternoon
-- relaxed dinner
+### Day 9: Shared outdoor day
+- Full group activity: white-water rafting on the Shiribetsu (half day), or a moderate group hike
+- Scenic lunch
+- Afternoon: free time, onsen, explore the area
+- Dinner together
 
-### Day 7: Shared outdoor day
+### Day 10: Split active day
+- Track A: Scenic drive to Shakotan Peninsula — cliffs, Cape Kamui, blue water, photography
+- Track B: Mt. Yotei summit hike (full day, strenuous) or longer trail run / bike ride
+- Track C: Farm visits, craft beer, slower scenic drive, onsen hopping
+- Regroup for dinner — cook together or find a restaurant
 
-- moderate hike
-- scenic lunch
-- slower evening
+### Day 11: Drive to airport, depart
+- Morning departure from Niseko
+- Drive to New Chitose Airport (~2.5 hours)
+- Return rental car
+- Fly CTS → Haneda/Narita, connect to SFO flight
+- Keep this day clean — do not plan a sightseeing block before the airport
 
-### Day 8: Split active day
+## Key risks
 
-- Track A: scenic drive / lakeside / cafes
-- Track B: bigger hike / run / ride
-- Track C: farm / animal / photography day
-- regroup for dinner
+1. **No warm-water beach component.** If beach swimming is a priority for anyone in the group, this option doesn't deliver. The coast is beautiful but cold.
+2. **Rental car is essential** for the Hokkaido portion. Budget for it, get International Driving Permits, plan for expressway tolls and fuel.
+3. **Departure requires a connection** through Haneda or Narita. Not a dealbreaker (very standard routing) but adds a few hours versus departing directly from Osaka or Tokyo. Don't cut the connection too tight — allow 3+ hours.
+4. **Niseko in summer is quiet.** If your group wants nightlife or a wide restaurant selection every evening, manage expectations. Lean into the rental-house-and-cook vibe.
+5. **June weather in Hokkaido is the best of all five options** — but it's still not guaranteed sunny every day. Pack layers (10-23C range) and rain gear.
 
-### Day 9: Premium slower day
+## Who should pick this
 
-- resort / spa / easy scenery
-- low-coordination day
-
-### Day 10: Weather buffer day
-
-- repeat the best outdoor activity from earlier in the stay
-
-### Day 11: Departure via Hokkaido
-
-- keep this day clean
-- do not plan a meaningful activity block
+Choose this option if reliable weather matters more than warm water, if the group has active members who want hiking and outdoor time, and if you'd rather eat miso ramen in Sapporo and soak in volcanic hot springs than fight for beach days during rainy season. This is the safest weather bet and the most distinctive "second trip to Japan" option — most people skip Hokkaido entirely.
