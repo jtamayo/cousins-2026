@@ -1,10 +1,10 @@
 # Japan 2026
 
-Six of us. Three weeks of planning. Three trips worth taking.
+Three trips worth taking.
 
 Everyone has been to Japan before. Everyone has been to enough places that the standard tour — Shinkansen, Kyoto temples, Dotonbori — doesn't quite cut it anymore. These three itineraries skip all of that and go somewhere else instead: a UNESCO island where the trees are older than the Roman Empire, a volcanic island chain with hidden Catholic churches and resident dolphins, a northern frontier that skips Japan's rainy season entirely.
 
-Each trip is designed around what makes this specific group tick. Read them before you vote.
+Each trip is designed around this group's preferences. Read them before you vote.
 
 ---
 
@@ -53,6 +53,6 @@ The weather guarantee. Hokkaido is the only region of Japan that skips the rainy
 
 ## A note on how these were built
 
-Each itinerary was designed around what makes this group specifically work: Phil's need for at least one genuinely hard outdoor day, Eliza's preference for one exceptional hotel and real wildlife encounters, the tattoo constraint (private outdoor baths throughout), Lillian's possible pregnancy (every section has a clear alternative), Steph's animal instincts and vegetarian access, and Juan's coffee-and-kitchen-tool agenda. Every "key risks" section is honest. Nothing is papered over.
+Each itinerary was designed around what makes this group specifically work: Phil's need for at least one genuinely hard outdoor day, Christian's hunt for landscapes that actually photograph well (ancient forest at dawn, volcanic moonscapes, the Blue Pond that looks too blue to be real), Eliza's preference for one exceptional hotel and real wildlife encounters, the tattoo constraint (private outdoor baths throughout), Lillian's possible pregnancy (every section has a clear alternative), Steph's animal instincts and vegetarian access, and Juan's coffee-and-kitchen-tool agenda. Every "key risks" section is honest. Nothing is papered over.
 
 Read the full itineraries before deciding. The details matter.
