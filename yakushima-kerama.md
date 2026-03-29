@@ -18,7 +18,7 @@ This is the "something extraordinary for everyone" trip. You spend four nights o
 - **12 days / 11 nights**
 - Tokyo (3N) → Yakushima (4N) → Kerama Islands (3N) → Naha departure
 - 2 domestic flights, 2 ferries
-- **Best timing:** June 20–30 (post-tsuyu for Kerama; sea turtle season, June is deep in nesting season)
+- **Best timing:** June 20–30 (post-tsuyu for Kerama; June is deep in sea turtle nesting season)
 - If you travel June 10–20: Yakushima is fine, Kerama is wetter but still viable
 - **Not for early June** if warm dry Kerama water is a priority
 
@@ -26,23 +26,39 @@ This is the "something extraordinary for everyone" trip. You spend four nights o
 
 ## What makes this trip compete with Greece or Sicily
 
-This trip isn't competing with beach resorts. It's competing with the feeling of going somewhere genuinely remote and encountering things that are unavailable anywhere else. On Yakushima, you walk through a forest where individual trees are older than the Roman Empire, while wild primates watch you from the branches. On Kerama, sea turtles the size of coffee tables graze coral in 8 meters of clear water directly below your snorkel. Neither of those things is easy to replicate elsewhere. The comparison to Galápagos isn't an exaggeration.
+This trip isn't competing with beach resorts. It's competing with the feeling of going somewhere genuinely remote and encountering things unavailable anywhere else. On Yakushima, you walk through a forest where individual trees are older than the Roman Empire, while wild primates watch you from the branches. On Kerama, sea turtles the size of coffee tables graze coral in 8 meters of clear water directly below your snorkel. Neither of those things is easy to replicate elsewhere. The comparison to Galápagos isn't an exaggeration.
 
 ---
 
-## What each person gets
+## Section by section
 
-**Christian** gets two extraordinary photography environments: the ancient cedar forest at dawn, draped in moss with shafts of light breaking through rain clouds — a scene that looks like it was created for a camera — and then Kerama's turquoise shallow water against white sand, which is as close to Southeast Asia as Japan gets.
+### Tokyo (3 nights)
 
-**Eliza** watches sea turtles emerge from the ocean under a black sky to nest on Nagata Beach. She's sitting on sand in the dark, a local guide whispering, a 150kg loggerhead turtle 6 meters in front of her. One of the most moving wildlife encounters available in Japan, full stop. She stays at Sankara Hotel — private forest villas with their own outdoor bath — and at a boutique Kerama guesthouse steps from a beach that most Japanese tourists have never visited. No strenuous hiking required.
+Three nights of jet lag management and personal agendas — the group has been here before, so this is not a highlights tour. Morning coffee crawl through Kiyosumi-Shirakawa, one of Tokyo's most concentrated specialty coffee neighborhoods. Shimokitazawa for vintage clothing and independent records. Kappabashi kitchen street for those with a knife and ceramic obsession. One strong group dinner, booked in advance. Tokyo is still the best restaurant city in the world, and a great first night sets the tone.
 
-**Phil** starts the Jomon Sugi trail at 4:30am with his headlamp, 22 kilometers of ancient forest railroad track through primordial cedar, and stands in front of a 3,000-year-old tree eight hours later. Then, at Kerama, he scuba dives water so clear that visibility runs 20-30 meters, past coral gardens and sea turtles so accustomed to divers they barely move. This is among the best diving in Japan.
+### Yakushima (4 nights)
 
-**Lillian**, if she's pregnant, has one of the best Japan trips in this entire set: she walks the Shiratani Unsuikyo forest — a different and equally beautiful ancient-cedar hike, much shorter and gentler — the same forest that Hayao Miyazaki studied for Princess Mononoke. She snorkels Kerama's surface (surface snorkeling is generally fine in early pregnancy with doctor clearance). She attends the sea turtle nesting tour — this is a low-effort, high-emotion activity, an hour or two sitting on a beach in warm darkness. And she has the most naturally beautiful backdrop of any trip option for the weeks she's in early pregnancy.
+Yakushima is a near-circular island 25km across, with peaks over 1,900 meters in its interior. It receives 8,000–10,000mm of rainfall annually in its mountain zones — one of the wettest places in East Asia, and precisely why the cedars grow the way they do. The ancient Yakusugi cedars, any tree over 1,000 years old on the island, are among the oldest living organisms in Japan.
 
-**Steph** encounters genuinely wild primates in an ancient forest. Yaku macaques — a Yakushima-endemic subspecies of Japanese macaque — live in troops of 20-30 and are frequently encountered on the same trails as the ancient cedars. Yaku deer graze beside them. This is real wildlife in a real forest, not a zoo or a managed monkey park. On Kerama, she snorkels with sea turtles in their natural habitat. For someone who loved safari, this trip offers the closest Japan analog.
+You stay at **Sankara Hotel & Spa** — three private forest villas set into a hillside, each with its own outdoor bath, and a restaurant drawing from Yakushima's remarkable pantry: flying fish, island beef, wild mountain vegetables, shochu aged in cedar casks. This is one of the best small hotels in Japan for this kind of group.
 
-**Juan** eats kaiseki dinner at Sankara using Yakushima's remarkable pantry: flying fish (tobiuo), wild boar, island vegetables, Yakushima shochu aged in cedar casks. He explores Naha's Makishi market and the Kokusai-dori street food scene the morning before flying home, and finds an extraordinary coffee shop or two in an underrated city.
+**The forest days split the group.** Half leave before dawn for the Jomon Sugi trail — 22 kilometers of ancient forestry railroad track through primordial cedar, arriving at a 3,000-year-old tree eight hours later. The trail is long but not technical; what makes it is the cumulative effect of walking through increasingly ancient forest as rain comes and goes. The other half walks Shiratani Unsuikyo Ravine — the forest Hayao Miyazaki studied to create Princess Mononoke, where every surface is smothered in moss, the light is green and diffuse, and it feels less like a hike than stepping inside the animation. Neither group is settling for second best.
+
+**The wildlife day.** Drive the island circuit road and you encounter things unavailable elsewhere in Japan. Yaku macaques — an island subspecies of Japanese macaque — move through the forest in troops of 20–30, frequently crossing the road with the frank curiosity of animals that have decided you're neither threat nor reward. Yaku deer, affected by island dwarfism, are improbably small and completely unafraid. Yakusugi Land offers ancient cedar groves on easy looping trails, and the Oko no Taki waterfall rounds out the afternoon.
+
+**The night on the beach.** Nagata Inakahama on Yakushima's northwest coast is one of the most important loggerhead sea turtle nesting beaches in the North Pacific. On a good late-June night, a female emerges from the sea — 150 kilograms, over a meter long — hauls herself up the sand in the darkness, digs a nest, and lays. You watch from close range with a guide, in near-total silence. The turtle pays no attention to you. The process takes over an hour. There is nothing quite like it.
+
+### Kerama Islands (3 nights)
+
+![White sand and clear turquoise water, Kerama Islands, Okinawa](https://res.cloudinary.com/jnto/image/upload/w_1400,h_500,c_fill,f_auto,fl_lossy,q_auto/v1514405658/okinawa/Okinawa1969_3)
+*Photo: [JNTO](https://www.japan.travel/en/destinations/okinawa/okinawa/)*
+
+The Kerama Islands are a national park 30–50km west of Naha — a cluster of small fishing islands surrounded by the clearest water in Japan. Visibility regularly runs 20–30 meters. Sea turtles are residents who graze coral at snorkeling depth. Furuzamami Beach on Zamami Island, where you base, has the kind of turquoise water you see in photographs and stop believing is real until you're standing in it.
+
+![Crystal-clear tropical water off the Okinawa islands](https://res.cloudinary.com/jnto/image/upload/w_1400,h_500,c_fill,f_auto,fl_lossy,q_auto/v1514407221/okinawa/Okinawa1975_4)
+*Photo: [JNTO](https://www.japan.travel/en/destinations/okinawa/okinawa/)*
+
+Scuba divers find some of the best diving in Japan here — coral gardens, endemic sea turtles, excellent visibility. Snorkelers encounter the same turtles in shallow water. Glass-bottom boat tours, sea kayaking to neighboring beaches, mornings with fresh sashimi from the day's catch. The Keramas have no resort infrastructure — accommodation is small guesthouses and minshuku — and that is exactly right. The location is the luxury.
 
 ---
 
@@ -59,72 +75,6 @@ This trip isn't competing with beach resorts. It's competing with the feeling of
 **Yakushima → Kerama:** The longest transit. Ferry back to Kagoshima (~1h50m), then fly Kagoshima → Naha (~1h15m), then high-speed ferry from Naha's Tomari Port to either Zamami or Tokashiki (~35-50 min). Full travel day — build this as a light arrival day.
 
 **Naha → SFO:** Fly Naha to Haneda (~2.5 hrs), connect to nonstop SFO. Or fly Naha directly to Tokyo Narita on a budget carrier (Peach, Jetstar) and connect there. Book this well ahead for 6 seats.
-
----
-
-## Section by section
-
-### Tokyo (3 nights)
-
-The landing zone — the group has been here before, so this isn't a highlights tour. These days are for jet lag, neighborhood wandering, and specific personal errands.
-
-**Don't try to do "Tokyo." Do specific things:**
-- **Day 2 morning:** Coffee crawl in Kiyosumi-Shirakawa — one of Tokyo's most concentrated specialty coffee neighborhoods. Easy morning walk with very good coffee (Juan's element entirely).
-- **Day 2 afternoon:** Shimokitazawa for Steph — vintage and thrift stores, independent record shops, small theater district. One of the best thrift scenes in Asia.
-- **Day 3:** Split freely. Eliza has two great options she won't want to skip: **Ueno Zoo** (one of Japan's oldest — Eliza's animal instinct will find this more interesting than expected) or **Ginza/Omotesando** for proper shopping. Christian and Phil can run, gym, or explore independently.
-- **One strong shared dinner:** Tokyo is still the best restaurant city in the world. Book something special — an omakase counter, a yakiniku spot, a ramen crawl in Shinjuku's Memory Lane.
-
-### Yakushima (4 nights)
-
-![Crystal-clear tropical water off the Okinawa islands](https://res.cloudinary.com/jnto/image/upload/w_1400,h_500,c_fill,f_auto,fl_lossy,q_auto/v1514407221/okinawa/Okinawa1975_4)
-*Photo: [JNTO](https://www.japan.travel/en/destinations/okinawa/okinawa/)*
-
-Yakushima is a near-circular island about 25km across, with a mountainous interior capped by peaks over 1,900 meters. It receives roughly 8,000-10,000mm of rain annually in its mountain zones — one of the wettest places in East Asia. This is precisely why the cedars grow the way they do. Rain is not bad weather on Yakushima. Rain is the point.
-
-The island is a UNESCO World Heritage site. About 20% of its surface is protected. The ancient Yakusugi cedar trees — any cedar over 1,000 years old on the island — are among the oldest living things in Japan.
-
-**You will need rental cars.** Two compact cars for the group (the island roads are narrow). Arrange this before you arrive — the island's rental fleet is small. International Driving Permits required.
-
-**Where to stay:** Sankara Hotel & Spa Yakushima. Three private villa suites in a forested hillside setting, each with their own outdoor bath. This is the right call for this group: it solves the tattoo/onsen issue entirely (private baths, no communal policy to navigate), it handles the luxury requirement for Eliza, and it positions the group in the forest atmosphere rather than a highway-front business hotel. The restaurant is excellent — Yakushima's island pantry (flying fish, local Yakushima beef, wild vegetables) served in Japanese-influenced fine dining. Budget roughly ¥60,000-100,000 per villa per night including dinner and breakfast. Book as far ahead as possible — they have very few rooms.
-
-**Day 5 — The Big Split:**
-
-*Group A (Phil, Christian, Juan, Steph, anyone else who's up for it):* Jomon Sugi hike. This is a long day — alarm at 3:30am, shuttle bus by 4:30am, trail by 5am. The route follows an old forestry railway line for 8km through the forest before transitioning to mountain trail. The ancient cedars you pass on the railway section are already extraordinary — each one enormous, draped in moss, draped in ferns growing from ferns. The walk is not technically difficult; it is long (22km round trip, 8-10 hours moving). Jomon Sugi, at the end of it, is behind a viewing platform — you can't touch it — but the tree is so large and so old that standing in front of it in the rain-filtered light produces a particular kind of silence. Return by late afternoon, collapse at Sankara.
-
-*Eliza (and Lillian if she prefers):* Shiratani Unsuikyo Ravine. This is the forest that Hayao Miyazaki walked through while creating Princess Mononoke, and the visual resemblance is immediate and uncanny — moss covers everything, the light is green and diffuse, water runs under boardwalks through root systems. Multiple trail loops from 30 minutes to a half-day. You do not need to be fit. You need to be comfortable in rain gear and on uneven wooden boards. The experience is genuinely not diminished by skipping Jomon Sugi — Shiratani is a different and equally beautiful thing.
-
-**Day 6 — Wildlife and Waterfalls:**
-
-Drive the island circuit road. Yaku macaques and Yaku deer are commonly encountered along roadsides, particularly between Anbo and the forest interior. These are genuinely wild animals — not provisioned, not managed, not in an enclosure. The macaques will watch you from 10 meters with frank curiosity. The deer are unnervingly small and gentle-looking (island dwarfism). Spend the morning at Yakusugi Land — a managed natural park with cedar groves accessible on easy looping trails. Afternoon: Oko no Taki waterfall, a spectacular cascade, and time on the west coast. Evening: arrange a private onsen booking at Sankara's spa.
-
-**Day 7 — Night on the Beach:**
-
-The day can be used for any remaining activities — a snorkeling outing off the east coast (flying fish are common; local operators run short trips), coastal walks, another forest day. The evening is reserved: sea turtle tour at Nagata Inakahama Beach.
-
-Nagata Inakahama on the northwest coast is one of the most important loggerhead sea turtle nesting beaches in the North Pacific. Tours are run by the Yakushima Sea Turtle Museum and local guides. You meet in small groups, walk to the beach in darkness (no white lights, strict rules), and wait. When a female emerges — which happens on a good late-June night with 60-70% likelihood — you watch in near-total silence as she hauls herself up the sand, digs a nest, and lays. The process takes an hour or more. She pays no attention to you. Bring layers (warm nights but sea breeze), a portable cushion for the sand, insect repellent (DEET-free for Lillian), and prepare to be moved. This is not like a zoo encounter. There's something about the rawness of it — the ancient animal under open sky — that lands differently.
-
-### Transit day: Yakushima → Kerama (Day 8)
-
-Early morning ferry back to Kagoshima. Fly Kagoshima to Naha (~1h15m). Take the Zamami Line or Tokashikison ferry from Naha's Tomari Port to your island base. Arrive by late afternoon. Light dinner, early night.
-
-**Leave a bag at your Naha hotel** (book one night in Naha for Day 11) and take only what you need to the Keramas — luggage forwarding complicates things on the small islands.
-
-### Kerama Islands (3 nights)
-
-![Turquoise clear water and white sand beach, Kerama Islands](https://picsum.photos/seed/kerama-turquoise/1400/500)
-*Replace with a Kerama Islands photo — search ["kerama islands okinawa beach"](https://unsplash.com/s/photos/okinawa-beach-turquoise) on Unsplash*
-
-The Kerama Islands are 15 small islands 30-50km west of Naha, collectively a national park. Most are uninhabited. The inhabited ones — Zamami and Tokashiki — have small fishing communities, a handful of guesthouses and minshuku, a few restaurants, and beaches that rival anywhere in Southeast Asia. Water visibility regularly runs 20-30 meters. The coral is healthy. Sea turtles are residents.
-
-**Stay on Zamami.** Furuzamami Beach is one of the most consistently stunning beaches in Japan — white sand, gradual entry, extraordinarily clear turquoise water, framed by low hills. The village is tiny and quiet. There are no hotels in the Western resort sense — accommodation is small guesthouses and minshuku (family-run inn). For 3 couples, book early and consider whether one larger guesthouse can accommodate the group together. Check Zamami Village Tourism Association for options.
-
-**For Phil:** Scuba diving in Kerama is world-class. Multiple dive operators on Zamami offer 2-tank day dives. Sea turtles are endemic — you will see them. Coral gardens are extensive. Visibility is the best in Okinawa Prefecture. Book a guided dive on your first full Kerama day.
-
-**For Lillian if pregnant:** Surface snorkeling at Furuzamami Beach is extraordinarily good without going below the surface — sea turtles come through in shallow water, coral begins within 50 meters of shore. Snorkeling is generally appropriate in early-to-mid pregnancy (no pressure changes, minimal exertion). Confirm with her OB before the trip. Sea kayaking is also a realistic option — calm water, low intensity.
-
-**For everyone:** Kerama is a place to be slow. The pace is minimal, deliberately. Rent a glass-bottom boat for a morning. Walk to a different beach. Eat fresh sashimi at the one good restaurant in the village. Swim. This is not a resort with programmed activities — it is a quiet Japanese fishing island with magnificent water. That's the trade-off, and it's a good one.
-
-**Note on the splurge:** There are no Sankara-caliber properties on Zamami. The accommodation is simple, clean, and appropriate to the setting — the splurge is Yakushima. Budget for modest guesthouses here (~¥15,000-20,000/person/night with 2 meals) and let the location itself be the luxury.
 
 ---
 

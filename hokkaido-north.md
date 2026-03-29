@@ -32,19 +32,44 @@ Most experienced Japan travelers have done Kyoto, Osaka, the shinkansen bullet t
 
 ---
 
-## What each person gets
+## Section by section
 
-**Phil** summits Asahidake, Hokkaido's highest peak (2,291m). The hike begins with a gondola to 1,600m, then traverses a volcanic plateau of steam vents and sulfurous pools before the final ascent. In early June, there may be snow patches on the upper slopes. The summit in clear conditions has views to the Japan Sea on one side and the Pacific on the other. It's a serious day out. If he wants a second peak, Mt. Yotei near Niseko (the conical "Fuji of Hokkaido," 1,898m) is a full-day solo summit with no trail infrastructure — essentially a bushwhack on a perfect volcanic cone.
+### Tokyo (3 nights)
 
-**Christian** finds Biei. The Biei highlands are a rolling patchwork of crop fields — lavender, wheat, sunflower, canola — that in early June are intensely green with yellow and blue accents. The Blue Pond at Shirogane (formed by aluminum hydroxide mineral seepage into a river) is genuinely and unnervingly turquoise — photos of it look digitally enhanced but are not. The volcanic plateau at Asahidake, crossed in morning mist, looks like another planet. Lake Toya with Mt. Usu reflected on its surface is pure landscape photography.
+Three nights of jet lag and personal agendas — the group has been here before, so this is not a highlights tour. Kappabashi kitchen street for those with a knife and ceramic obsession. Shimokitazawa and Koenji for vintage clothing and independent records. Ueno Zoo for the animal-inclined. One strong group dinner, booked in advance.
 
-**Eliza** eats the best food of any itinerary on this list. Sapporo has earned a reputation among Japanese food obsessives as the country's best food city: miso ramen, soup curry (a Sapporo original — think Japanese curry meets a deeply aromatic broth with a whole chicken leg), Genghis Khan grilled lamb at a classic Susukino restaurant, fresh sea urchin rice bowls at Nijo Market, and the LeTAO double-fromage cheesecake from Otaru. She takes the Asahidake Ropeway to the alpine meadows (a gondola, not a hike — you reach 1,600m in 10 minutes and walk around a volcanic plateau with steam vents and panoramic views) and stays at a private-bath ryokan at Sounkyo Gorge.
+### Sapporo + Otaru (2 nights)
 
-**Lillian**, if pregnant, has an itinerary almost perfectly designed around her situation. Hokkaido's outdoor highlights are largely scenic rather than strenuous — the ropeway, the flower fields, the volcanic lake, the gorge walks. She can do all of it. She cannot use the communal onsen at the Sounkyo ryokan, but the group can book a private kashikiri bath (most Sounkyo ryokan offer them) that she can soak in at a lower temperature, or she simply joins for the meals and the atmosphere, which are honestly the main event at a good ryokan anyway.
+Japan's most underrated food city, by the judgment of many Japanese food obsessives. Miso ramen was invented here — eat it at a counter in Ramen Yokocho late at night. Soup curry is a Sapporo original: a deeply aromatic, complex broth with whole chicken leg and a forest of roasted vegetables, unlike anything else in Japan. The sea urchin rice bowl at Nijo Market for breakfast. Genghis Khan grilled lamb at Daruma in Susukino — loud, smoky, joyful. The Sapporo Beer Museum in its old brick factory.
 
-**Steph** sees red foxes — almost certainly multiple times, because Hokkaido's red fox population is dense and the animals have no particular fear of cars or people. You see them on roadsides, at the edge of farmland, occasionally just standing in the middle of things. In the Biei area, white-tailed eagles are common. Brown bears inhabit Hokkaido; though you won't see them on this route, the awareness that you're in bear country while walking Daisetsuzan adds a layer of attention. The wildlife here isn't staged. And for the thrift shopping: Sapporo's Susukino and surrounding areas have a growing vintage scene, and the city has good independent shopping neighborhoods.
+Then, a 40-minute train along the Ishikari Bay coast to Otaru: Japan Sea sushi at a counter on Sushi Street (amberjack, snow crab, sea urchin caught that morning, roughly a third of Tokyo prices), and the LeTAO double-fromage cheesecake — a two-layer affair of baked and raw cream cheese that is remarkably good. Buy several boxes.
 
-**Juan** has his best coffee trip of all the options. Sapporo's third-wave coffee scene is genuinely excellent and still slightly under the radar — independent roasters in quiet backstreet cafes, morning light, Hokkaido milk. He also does Otaru: Japan Sea sushi (amberjack, sea urchin, snow crab) for lunch at a counter on Sushi Street, which many Japanese rank as better value than Tokyo. The Sapporo Beer Museum is for him as well — a serious brewing history, tasting flights, and the atmospheric old brick factory.
+### Sounkyo Gorge / Daisetsuzan (2 nights)
+
+![Hokkaido's dramatic volcanic and alpine interior](https://res.cloudinary.com/jnto/image/upload/w_1400,h_500,c_fill,f_auto,fl_lossy,q_auto/v1515929604/hokkaido/Hokkaido1504_4)
+*Photo: [JNTO](https://www.japan.travel/en/destinations/hokkaido/hokkaido/)*
+
+Drive 2.5 hours northeast from Sapporo into Daisetsuzan National Park — Japan's largest, a vast volcanic wilderness at the center of Hokkaido. Sounkyo is a canyon cut by the Ishikari River into volcanic rock, with walls rising 100–200 meters above the road and ryokan built into the cliff face. In early June, the twin waterfalls — Ryusei and Ginga — are at full strength. The kaiseki dinners here pull from Hokkaido's interior pantry: river fish, mountain vegetables, local venison.
+
+The next morning is the serious mountain day. The Asahidake Ropeway carries you to 1,600 meters in 10 minutes, where the trail emerges onto a volcanic plateau of steam vents, sulfurous pools, and dwarf pines. From there, the summit of Asahidake — Hokkaido's highest peak at 2,291m — is 5–6 hours round trip. In early June there may be snow patches on the upper slopes, and the summit views on a clear day sweep from the Japan Sea to the Pacific. For those who prefer the ropeway without the full climb, the plateau alone is extraordinary — alien landscape, wild ptarmigan common, panoramic views in every direction — and you're back at the ryokan in time for lunch.
+
+### Biei + Furano (2 nights)
+
+![Lavender fields and rolling farmland, Furano, Hokkaido](https://res.cloudinary.com/jnto/image/upload/w_1400,h_500,c_fill,f_auto,fl_lossy,q_auto/v1508552277/hokkaido/Hokkaido1497_3)
+*Photo: [JNTO](https://www.japan.travel/en/destinations/hokkaido/hokkaido/)*
+
+The Biei highlands are the landscape that made Hokkaido famous in Japan: rolling hills patchworked with lavender, wheat, canola, and wildflowers, cut through with farm roads and solitary iconic trees — a lone elm in the middle of a field, an oak on a hillside — that have become famous in Japanese photography. In early June the hills are intensely green with yellow and blue accents, and red foxes appear on field edges with regularity. Rent bikes in Biei town and ride the Patchwork Road circuit — 15km through fields and farmland at a pace that suits the landscape.
+
+The Blue Pond at Shirogane is not exaggerated: aluminum hydroxide from natural mineral springs mixes with river water to create a blue that looks digitally altered and is not. Visit at 6am before anyone else arrives. The submerged dead birch trees visible through the perfectly transparent water make the composition almost unreasonably good. Furano's Farm Tomita and the valley road round out the day. Stay in a farmhouse guesthouse and eat together in the kitchen — the night sky in rural Biei is extraordinary.
+
+### Lake Toya + Niseko (2 nights)
+
+![Lake Toya — volcanic caldera lake with Mt. Usu reflected on its surface](https://res.cloudinary.com/jnto/image/upload/w_1400,h_500,c_fill,f_auto,fl_lossy,q_auto/v1516979956/hokkaido/Hokkaido1449_10)
+*Photo: [JNTO](https://www.japan.travel/en/destinations/hokkaido/hokkaido/)*
+
+Lake Toya is a volcanic caldera lake with an island at its center and an active volcano on its southern shore. The town runs nightly fireworks over the lake from late April through October — 10 minutes, every evening, not a special event, simply something they do. The Mt. Usu Ropeway shows the volcanic crater and views to the Pacific. Showa Shinzan — a mountain that emerged from flat farmland during eruptions in 1943–45 — is a 20-minute drive and as strange as it sounds.
+
+Then Niseko, 45 minutes west: quiet, green, the volcanic cone of Mt. Yotei enormous on the horizon. Luxury hotels here run at summer prices — a fraction of what they cost in ski season. One night at the Park Hyatt Niseko or Ritz-Carlton Niseko Village is the trip's splurge, and it delivers: private bath facilities, exceptional food, the whole group together in one property. White-water rafting on the Shiribetsu River for those who want it. Fresh soft-serve ice cream and cheese at the Hokkaido dairy farms for everyone.
 
 ---
 
@@ -57,97 +82,6 @@ Most experienced Japan travelers have done Kyoto, Osaka, the shinkansen bullet t
 **Hokkaido circuit:** Rent a car (or large van for 6) at New Chitose Airport on Day 4 or Sapporo on Day 6. You drive the circuit: Sapporo → Sounkyo → Biei/Furano → Lake Toya/Niseko → back to New Chitose. The whole loop is roughly 600km over the Hokkaido days.
 
 **Departure:** New Chitose → Haneda (~1h45m), then connect to SFO nonstop.
-
----
-
-## Section by section
-
-### Tokyo (3 nights)
-
-Same as Trip A — focused, not a checklist tour. Use these days for jet lag, specific activities, and one standout dinner.
-
-- **Juan:** Kappabashi Street (the kitchen/restaurant supply district near Asakusa — floor-to-ceiling shelves of professional Japanese cookware, knives, ceramics, everything). This is his day.
-- **Steph:** Shimokitazawa and Koenji for vintage and thrift. These are genuinely excellent circuits.
-- **Eliza:** Omotesando or Ginza shopping, and Ueno Zoo (one of Japan's oldest, with giant pandas).
-- **Phil + Christian:** Run along the Imperial Palace loop (5km popular running path), then whatever.
-- One strong group dinner, booked in advance.
-
-### Sapporo (2 nights)
-
-One of Japan's most underrated cities by international tourists. Dense, walkable, completely navigable, and with a food culture that rewards every meal.
-
-**Food priorities:**
-- **Nijo Market** (breakfast) — stalls of Hokkaido seafood, the famous sea urchin rice bowl (uni don). Go early.
-- **Soup curry** — unique to Sapporo, nowhere else does this. A clear, deeply-spiced broth with a whole chicken leg or lamb and a forest of vegetables. Try Garaku or Suage.
-- **Miso ramen** — Sapporo invented it. Ramen Alley (Ramen Yokocho) in Susukino has a dozen tiny shops. Pick any, go late.
-- **Genghis Khan (Jingisukan)** — grilled lamb on a dome-shaped iron grill, usually with beer. Daruma in Susukino is the institution. This is a loud, smoky, joyful meal.
-- **Sapporo Beer Museum and Garden** — good brewery history museum, and the attached beer garden does large Genghis Khan sets.
-
-**Other activities:**
-- **Odori Park** — the long tree-lined park through the center of the city. In early June, occasionally coincides with the Yosakoi Soran Festival (massive street dance festival — check exact dates, usually first or second week of June).
-- **Susukino** — Hokkaido's largest nightlife district, worth an evening walk.
-- **Mt. Moiwa Ropeway** — city panorama, particularly good at sunset or dusk.
-
-**Day 5: Otaru** (40 min by JR train from Sapporo)
-
-The train runs along the Ishikari Bay coastline before arriving in Otaru, a former trading port with beautiful stone warehouses along a canal. This is a half-day trip that becomes one of the best meals of the trip.
-
-- **Canal district** — photogenic, especially morning light
-- **Sushi Street (Sushi-ya Dori)** — concentrated cluster of excellent sushi counters. This is amberjack, sea urchin, and snow crab freshly caught from the Japan Sea, served at a wood counter for roughly a third of what you'd pay in Tokyo. The meal everyone will talk about.
-- **LeTAO** — the original double-fromage cheesecake shop in Otaru. The cheesecake is a two-layer affair, one baked and one raw, and it is remarkably good. Buy several boxes.
-- **Glass workshops and sake brewery** (Tanaka Sake Brewery) for the afternoon if time allows.
-Return to Sapporo for dinner.
-
-### Sounkyo Gorge / Daisetsuzan (2 nights)
-
-![Volcanic steam vents and alpine terrain — Hokkaido's Daisetsuzan National Park](https://res.cloudinary.com/jnto/image/upload/w_1400,h_500,c_fill,f_auto,fl_lossy,q_auto/v1514407013/oita/Oita1991_1)
-*Photo: [JNTO](https://www.japan.travel/en/destinations/hokkaido/hokkaido/)*
-
-Pick up rental cars at Sapporo (or at New Chitose on Day 4 and drive to Sapporo). Drive to Sounkyo: about 2.5 hours northeast.
-
-Sounkyo is a dramatic canyon cut by the Ishikari River into the volcanic rock of Daisetsuzan National Park. The canyon walls rise 100-200 meters above the road. The gorge town has hot spring hotels built into the cliff face. In early June, Ryusei and Ginga waterfalls are at full strength.
-
-This is also the gateway to Asahidake — the hiking day.
-
-**Where to stay:** One of the canyon-side onsen hotels. Taisetsu Sogen (or similar) — look for a property with private kashikiri baths (for Juan & Steph). Most Sounkyo properties have them; confirm when booking. The kaiseki dinners at Sounkyo ryokan are excellent — Hokkaido ingredients (river fish, mountain vegetables, local venison) in elaborate multi-course meals.
-
-**Day 7: Asahidake — the serious mountain day**
-
-Asahidake is the highest peak in Hokkaido (2,291m) and in Daisetsuzan National Park, which is the largest national park in Japan. The mountain is an active volcanic system.
-
-- **Asahidake Ropeway** runs from ~600m to ~1,600m (open from late April). Takes 10 minutes. At the top, a volcanic plateau of steam vents, sulfurous pools, and dwarf pines.
-- **For Phil (and Christian, Juan, Steph):** Continue from the ropeway station on foot to the summit. The hike from the ropeway station to the summit and back is roughly 5-6 hours at a reasonable pace. Some snow patches are possible in early June at the top — add to the atmosphere, not to the danger. The summit views on a clear day are extraordinary: a sea of volcanic peaks in every direction.
-- **For Eliza (and Lillian):** Ride the ropeway, walk the easy volcanic plateau loop near the station (steam vents, small alpine lakes, wild ptarmigan common here), and ride back down. No strenuous hiking required. The plateau alone is genuinely beautiful and alien-looking. Return to Sounkyo by midday. Explore the canyon walks or soak at the ryokan.
-- Regroup at the ryokan for a full kaiseki dinner.
-
-### Biei + Furano (2 nights)
-
-![The Blue Pond at Shirogane, Biei — electric turquoise mineral water](https://picsum.photos/seed/blue-pond-biei/1400/500)
-*Replace with the Blue Pond photo — search ["blue pond biei hokkaido shirogane"](https://unsplash.com/s/photos/blue-pond-hokkaido) on Unsplash*
-
-Drive from Sounkyo south through the Hokkaido interior: ~2 hours to the Biei/Furano area.
-
-This is the Hokkaido that looks like it was designed to be photographed. Rolling hills, patchwork farm fields in every direction, lavender rows (slightly early in June — main bloom is mid-July — but other flowers are vivid), and the Blue Pond.
-
-**Shirogane Blue Pond (青い池):** Formed when aluminum hydroxide from natural mineral springs mixes with river water. The result is a blue that looks photoshopped. It is not. In June, the surrounding birch trees are fully leafed, and the submerged dead trees (visible through the transparent water) make the composition almost too good. Visit early morning before the coach tours arrive.
-
-**Biei's Patchwork Road circuit:** A 10-15km loop through the hills east of Biei town, passing landmark trees (the lone elm tree in a field, the oak tree on a hill) that have become famous in Japanese photography. Rent bikes in Biei town — the circuit is excellent on a bicycle and most of the group has the fitness for it. In early June: green hills, wildflowers, occasional red fox on a field edge.
-
-**Furano:** The lavender capital, though full bloom is mid-July. Farm Tomita is the famous lavender farm — even in early June, the farm is working and some early flowers may be out. The drive through the Furano valley is excellent regardless of season. The town itself has good food: the Furano cheese factory, local wine, farm-to-table restaurants.
-
-**Where to stay:** Several good options in Biei town or the surrounding farms. A farmhouse-style airbnb or guesthouse for the group is worth seeking here — the night sky in rural Biei is extraordinarily clear, and eating together in a farmhouse kitchen beats a business hotel.
-
-### Lake Toya + Niseko (2 nights)
-
-Drive from Furano west to Lake Toya: about 2.5 hours.
-
-**Lake Toya:** A volcanic caldera lake with an island in the center and the cone of Mt. Usu, an active volcano, on its southern shore. The lake town (Toyako Onsen) has lakefront ryokan and a famous nightly fireworks show from late April through October — a 10-minute display over the lake every evening, not a special occasion, just something they do. Mt. Usu Ropeway offers views of the volcanic crater and the Pacific Ocean. Showa Shinzan — a mountain that emerged from flat farmland during volcanic eruptions in 1943-45 — is a 20-minute drive.
-
-**From Lake Toya, drive to Niseko (45 min - 1 hr).**
-
-**Niseko in summer:** Quiet, green, Mt. Yotei enormous on the horizon. Summer activities: white-water rafting on the Shiribetsu River (Phil and anyone who wants an adrenaline half-day), cycling through the countryside, road cycling around Yotei. The cheese and dairy farms around Niseko are excellent — Hokkaido milk in its various forms (fresh soft ice cream, fresh cheese, yogurt) is a consistent highlight for everyone.
-
-**The splurge night:** Niseko's luxury hotels drop to a fraction of winter ski prices in June. Park Hyatt Niseko, Higashiyama Niseko Village (Ritz-Carlton affiliate), and Skye Niseko are all available at summer rates. Book one night here — the group stays together in a high-end property at ski-chalet prices. Private onsen facilities are available; confirm Juan & Steph's access when booking.
 
 ---
 
