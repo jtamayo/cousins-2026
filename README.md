@@ -1,12 +1,14 @@
-# Japan 2026
+# Group Trip 2026
 
-Everyone has been to Japan before. The standard tour — Shinkansen, Kyoto temples, Dotonbori — doesn't quite cut it anymore. These three itineraries skip all of that and go somewhere else instead: a UNESCO island where the trees are older than the Roman Empire, a volcanic island chain with hidden Catholic churches and resident dolphins, a northern frontier that skips Japan's rainy season entirely.
-
-Each trip is designed around this group's preferences. Read them before you vote.
+Five options. Three in Japan, one in Sicily, one in the mid-Atlantic. Each trip is designed around this group's specific preferences — the hiking, the food restrictions, the tattoos, the possible pregnancy, all of it. They are not ranked. Read them before you vote.
 
 ---
 
-## The three options
+## Japan
+
+Everyone has been to Japan before. The standard tour — Shinkansen, Kyoto temples, Dotonbori — doesn't quite cut it anymore. These three itineraries skip all of that and go somewhere else instead.
+
+### The three Japan options
 
 ### [Trip A — Ancient Forests and Turtle Beaches](yakushima-kerama.md)
 **Tokyo → Yakushima (4N) → Kerama Islands (3N)**
@@ -41,22 +43,55 @@ The weather guarantee. Hokkaido is the only region of Japan that skips the rainy
 
 ---
 
+---
+
+## Beyond Japan
+
+Two non-Japan options for the group. Different character, different strengths. Both solve the tattoo constraint entirely (no restrictions in Europe), simplify pregnancy logistics, and offer better vegetarian eating than Japan.
+
+### [Trip D — Volcanoes, Ruins, and the Sea](sicily.md)
+**Palermo (2N) → Aeolian Islands (3N) → Taormina (2N) → Syracuse (2N)**
+
+![Taormina's ancient Greek theatre with Mt. Etna in the background](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Taormina_BW_2012-10-05_16-09-43.jpg/1280px-Taormina_BW_2012-10-05_16-09-43.jpg)
+
+The guaranteed-sunshine option. Sicily in June is warm, dry, and not yet crowded. You eat street food in thousand-year-old markets, watch Stromboli erupt at night from a volcanic island, hike Europe's tallest active volcano, snorkel in 25-meter visibility, and walk through Greek temples older than the Parthenon — all in 11 days. The food is extraordinary and half of it is naturally vegetarian. The Four Seasons San Domenico Palace in Taormina (yes, the White Lotus hotel) is the splurge. Tattoos are a non-issue everywhere.
+
+**Best timing:** Early to mid June (June 1–20).
+
+---
+
+### [Trip E — Whales, Waterfalls, and the Mid-Atlantic](azores-madeira.md)
+**Sao Miguel, Azores (4N) → Madeira (5N) + Porto Santo day trip**
+
+![Sete Cidades crater lakes, Azores](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Lagoa_das_Sete_Cidades_%28Shutterstock%29.jpg/1280px-Lagoa_das_Sete_Cidades_%28Shutterstock%29.jpg)
+
+The wildlife trip. The Azores have the best whale watching in the North Atlantic — 28 cetacean species, sperm whales year-round, dolphins on nearly every trip, clifftop spotters radioing boats to live sightings. Then you fly to Madeira and walk its 500-year-old levada irrigation channels through UNESCO laurel forest, along cliff edges, and through hand-carved tunnels. The Pico do Arieiro ridge hike is above the clouds. Porto Santo has a 9-kilometer golden sand beach. Belmond Reid's Palace is the splurge. Costs are the lowest of all five options.
+
+**Best timing:** Early to mid June (June 1–20).
+
+---
+
 ## What each trip provides
 
-| | Trip A | Trip B | Trip C |
-|---|---|---|---|
-| Warm ocean swimming | Yes (Kerama) | No | No |
-| Serious hiking | Yes (Jomon Sugi, 22km) | Yes (Kuju mountains) | Yes (Asahidake summit) |
-| Easy outdoor alternatives | Yes (Shiratani forest) | Yes (Aso caldera drive) | Yes (ropeway to volcanic plateau) |
-| Best food | Good (Naha/Yakushima) | Best (Fukuoka/Nagasaki) | Excellent (Sapporo) |
-| Weather risk | Late June: low | Low overall | Lowest |
-| Pre-trip planning required | High (Sankara, timed tickets, ferries) | Medium (ryokan, jetfoil) | Medium (car rental, ryokan) |
-| Works if Lillian is pregnant | Yes, with plan B activities | Yes, fully | Yes, fully |
+| | Trip A | Trip B | Trip C | Trip D | Trip E |
+|---|---|---|---|---|---|
+| Warm ocean swimming | Yes (Kerama) | No | No | Yes (Aeolians, Taormina) | Porto Santo only |
+| Serious hiking | Yes (Jomon Sugi, 22km) | Yes (Kuju mountains) | Yes (Asahidake summit) | Yes (Etna summit) | Yes (Arieiro→Ruivo) |
+| Easy outdoor alternatives | Yes (Shiratani forest) | Yes (Aso caldera drive) | Yes (ropeway to volcanic plateau) | Yes (cable car + craters) | Yes (easy levadas) |
+| Best food | Good (Naha/Yakushima) | Best (Fukuoka/Nagasaki) | Excellent (Sapporo) | Excellent (Palermo/Ortigia) | Good (Funchal) |
+| Vegetarian ease | Challenging | Challenging | Challenging | Excellent | Manageable |
+| Wildlife encounters | Sea turtles, monkeys | Dolphins | Foxes, deer | Snorkeling only | Whales, dolphins |
+| Weather risk | Late June: low | Low overall | Lowest | Lowest | Fog possible (Azores) |
+| Tattoo ease | Private baths only | Private baths only | Private baths only | No restrictions | No restrictions |
+| Pre-trip planning required | High | Medium | Medium | Medium | Medium-high |
+| Works if Lillian is pregnant | Yes, with plan B | Yes, fully | Yes, fully | Yes, very easily | Yes, very easily |
+| Cultural novelty | Very high | Very high | Very high | Moderate | Moderate |
+| Overall cost | High | Medium-high | Medium-high | Medium | Lowest |
 
 ---
 
 ## A note on how these were built
 
-Each itinerary was designed around what makes this group specifically work: Phil's need for at least one genuinely hard outdoor day, Christian's hunt for landscapes that actually photograph well (ancient forest at dawn, volcanic moonscapes, the Blue Pond that looks too blue to be real), Eliza's preference for one exceptional hotel and real wildlife encounters, the tattoo constraint (private outdoor baths throughout), Lillian's possible pregnancy (every section has a clear alternative), Steph's animal instincts and vegetarian access, and Juan's coffee-and-kitchen-tool agenda. Every "key risks" section is honest. Nothing is papered over.
+Each itinerary was designed around what makes this group specifically work: Phil's need for at least one genuinely hard outdoor day, Christian's hunt for landscapes that actually photograph well (ancient forest at dawn, volcanic moonscapes, the Blue Pond that looks too blue to be real, Stromboli erupting at night, Sete Cidades crater lakes), Eliza's preference for one exceptional hotel and real wildlife encounters, the tattoo constraint (private outdoor baths in Japan, no issue in Europe), Lillian's possible pregnancy (every section has a clear alternative), Steph's animal instincts and vegetarian access, and Juan's coffee-and-kitchen-tool agenda. Every "key risks" section is honest. Nothing is papered over.
 
 Read the full itineraries before deciding. The details matter.
