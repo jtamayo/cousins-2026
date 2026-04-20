@@ -27,7 +27,7 @@
   - some drinks and nightlife
   - luxury accommodations
   - animals, she visits zoos and wants to go to galapagos
-- Eliza does not like hiking in very hot weather
+- Eliza is enthusiastic about beautiful hikes in moderate weather, but is not an athlete
 - Eliza is allergic to salmon and molluscs
 
 ### Phil & Lillian
@@ -58,7 +58,7 @@
 - Steph likes:
   - thrift shopping
   - animal viewing and interaction: she's loved safaris
-  - vegetarian food access or sushi is important
+  - vegetarian food access is important (or sushi is OK if that's all that's available)
   - she's a marathon runner so having access to running routes or a treadmill every day is important
 - Juan likes:
   - coffee
