@@ -4,8 +4,13 @@
 
 - Group size: 6 people, traveling as 3 couples
 - Timing: must be in June
-- Trip length: roughly 10 to 12 shared days, though each couple might extend it before or after
+- Trip length: roughly 10 to 12 shared days
 - Origin: flying from San Francisco
+
+## General Trip Shape
+
+- We've agreed that the trip should start on June 9th or so. 
+- Phil & Lillian really want to visit Lofoten, and they need to be back in the US by June 25th or so, so we're planning to split the group around June 18th or so: P&L will go to Lofoten, the rest migth continue traveling around Norway or potentially visit other scandinavian countries.
 
 
 ## Couple-by-Couple Preferences
@@ -22,7 +27,7 @@
   - some drinks and nightlife
   - luxury accommodations
   - animals, she visits zoos and wants to go to galapagos
-- Eliza does not want overly strenuous hiking, but moderate outdoor activities are fine
+- Eliza does not like hiking in very hot weather
 - Eliza is allergic to salmon and molluscs
 
 ### Phil & Lillian
@@ -34,6 +39,7 @@
   - surfing
   - snorkeling
   - scuba diving
+  - Kayaking
   - generally more intense active days and adrenaline
   - Phil loves water based activities
 - They do not drink alcohol
@@ -53,10 +59,13 @@
   - thrift shopping
   - animal viewing and interaction: she's loved safaris
   - vegetarian food access or sushi is important
+  - she's a marathon runner so having access to running routes or a treadmill every day is important
 - Juan likes:
   - coffee
   - people-watching
   - Beautiful landscapes
+  - Saunas and relaxing after a good workout
+- Juan & Steph are both planning to continue traveling around europe for another two weeks. They'd like to visit other scandiavian cities, and tag another long destination, potentially Turkey if geopolitics allows for it, or something else if not.
 
 ## What the Group Needs Overall
 
