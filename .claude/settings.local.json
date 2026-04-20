@@ -14,7 +14,15 @@
       "WebFetch(domain:www.lonelyplanet.com)",
       "WebFetch(domain:www.japan.travel)",
       "WebFetch(domain:www.theguardian.com)",
-      "Bash(git mv *)"
+      "Bash(git mv *)",
+      "WebFetch(domain:www.bfl.no)",
+      "WebFetch(domain:uteguiden.com)",
+      "WebFetch(domain:www.stromsholmen.no)",
+      "WebFetch(domain:xxlofoten.no)",
+      "WebFetch(domain:sagaadventureslofoten.com)",
+      "WebFetch(domain:www.switchbacktravel.com)",
+      "WebFetch(domain:www.thesmoothescape.com)",
+      "WebFetch(domain:traveltonorway.org)"
     ]
   }
 }

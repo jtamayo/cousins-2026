@@ -38,14 +38,16 @@ The stops below are listed Bergen → Alesund (northbound). If you go southbound
 - **Stegastein viewpoint** — dramatic fjord overlook
 - **Nærøyfjord** boat trip (UNESCO World Heritage)
 - Hike options: Rimstigen (challenging, big views) or gentler fjord walks
+- **Nigardsbreen glacier hike** (day trip, ~1.5h drive from Sogndal) — guided walks on blue ice, from 3.5h/NOK 620 to 6h with ice climbing/NOK 1,415. [bfl.no](https://www.bfl.no/en/nigardsbreen-glacier-hikes/)
 
 ### Stop 3: Geirangerfjord (2N)
 
 - Drive via Stryn or Hellesylt (scenic mountain passes, possible snow walls in June)
-- **Geirangerfjord cruise** — the Seven Sisters and Bridal Veil waterfalls from the water
+- **Geirangerfjord cruise** — the Seven Sisters and Bridal Veil waterfalls from the water. Private charter boats also available for the group
 - **Dalsnibba viewpoint** (1,500m) — panoramic view of the entire fjord system
 - **Hike to Skageflå** — an abandoned mountain farm clinging to a cliff above the fjord
 - Kayaking on Geirangerfjord (less crowded than Aurlandsfjord, more dramatic)
+- **E-bike over Flofjellet** (from Hellesylt) — guided e-bike ride through dramatic mountain scenery. Contact [Uteguiden](https://uteguiden.com/en/experience/spectacular-e-bike-flofjellet) for pricing/availability
 
 ### Stop 4: Alesund (2N)
 
@@ -53,6 +55,9 @@ The stops below are listed Bergen → Alesund (northbound). If you go southbound
 - Alesund town: Art Nouveau architecture, climb Aksla for the sunset panorama
 - **Atlantic Sea Park** (Atlanterhavsparken) — one of Northern Europe's largest aquariums, open-air seal and penguin exhibits (good for the animal lovers)
 - **Runde Island** day trip — boat to one of Norway's largest seabird colonies (~500,000 birds in nesting season: puffins, gannets, sea eagles)
+- **Wildlife sea safari** — RIB boat trip to the outer islands of Sunnmore for marine wildlife encounters. Operated by [Uteguiden/62 Nord](https://uteguiden.com/en/experience/wildlife-sea-safari)
+- **Coasteering** — explore the Alesund coastline in a wetsuit with helmet and life jacket: swimming, scrambling, cliff jumping. Operated by [Uteguiden](https://uteguiden.com/en/experience/coasteering)
+- **Seal snorkeling at the Atlantic Road** (optional detour, ~1.5h north of Alesund) — swim with wild grey seals at Stromsholmen, on the famous Atlantic Road between Kristiansund and Molde. Open June–September. [stromsholmen.no](https://www.stromsholmen.no/)
 - Seafood dinners along the harbor
 
 ---

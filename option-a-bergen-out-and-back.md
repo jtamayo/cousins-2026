@@ -40,6 +40,7 @@ Everyone flies into Bergen. You use Bergen as your anchor and explore Norway's t
 - **Stegastein viewpoint** — dramatic fjord overlook, good for photos
 - Hike options: Rimstigen (challenging, 4–5h, jaw-dropping views) or easier walks along the fjord
 - Possible day trip to Nærøyfjord (UNESCO) by boat
+- **Nigardsbreen glacier hike** (day trip, ~1.5h drive from Sogndal) — guided walks on a blue-ice glacier arm of Jostedalsbreen, Europe's largest glacier. Options from 3.5h (45 min on ice, NOK 620) to 6h with ice climbing (NOK 1,415). Ages 8–12+ depending on route. A genuine "nowhere else" experience. [bfl.no](https://www.bfl.no/en/nigardsbreen-glacier-hikes/)
 - Base in Flam, Aurland, or Laerdal
 
 ### Days 6–8: Hardangerfjord area (June 14–17)

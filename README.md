@@ -76,7 +76,7 @@ A quick reference for the major stops across all three itineraries. See the indi
 
 ## After the split (June 18+)
 
-- **P&L**: Lofoten for ~7 days, then fly home ~June 25
+- **P&L**: [Lofoten for ~7 days](lofoten-pl.md), then fly home ~June 25
 - **C&E**: A few days in a Scandinavian or European city (Oslo, Copenhagen, Amsterdam, Stockholm), then fly home ~June 25
 - **J&S**: Continue traveling Europe — Scandinavian cities plus potentially Turkey or another longer destination
 
