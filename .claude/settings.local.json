@@ -22,7 +22,12 @@
       "WebFetch(domain:sagaadventureslofoten.com)",
       "WebFetch(domain:www.switchbacktravel.com)",
       "WebFetch(domain:www.thesmoothescape.com)",
-      "WebFetch(domain:traveltonorway.org)"
+      "WebFetch(domain:traveltonorway.org)",
+      "WebFetch(domain:www.visitbergen.com)",
+      "WebFetch(domain:www.visitalesund.com)",
+      "WebFetch(domain:www.visitstavanger.com)",
+      "WebFetch(domain:www.wonderfulcopenhagen.com)",
+      "WebFetch(domain:www.fjordnorway.com)"
     ]
   }
 }

@@ -10,7 +10,7 @@
 ## General Trip Shape
 
 - We've agreed that the trip should start on June 9th or so. 
-- Phil & Lillian really want to visit Lofoten, and they need to be back in the US by June 25th or so, so we're planning to split the group around June 18th or so: P&L will go to Lofoten, the rest migth continue traveling around Norway or potentially visit other scandinavian countries.
+- Phil & Lillian really want to visit Lofoten, and they need to be back in the US by June 25th or so, so we're planning to split the group around June 19th or so: P&L will go to Lofoten, the rest migth continue traveling around Norway or potentially visit other scandinavian countries.
 
 
 ## Couple-by-Couple Preferences
@@ -21,6 +21,7 @@
   - hiking
   - sauna and athletic activities
   - beautiful landscapes and instagram worthy photos
+  - experiencing local events, festivals, and "things happening" in a city — he likes visiting places when there's something going on
 - Eliza likes:
   - shopping
   - good dinners

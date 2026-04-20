@@ -1,6 +1,6 @@
 # Lofoten — P&L's Post-Split Leg
 
-**~June 18–25 · Fly in via Bodo · Base around Reine/Svolvær**
+**~June 19–25 · Fly in via Bodo · Base around Reine/Svolvær**
 
 This is P&L's adventure week after the group splits. Lofoten is a chain of islands inside the Arctic Circle connected by bridges and tunnels, with dramatic peaks rising straight out of the sea, white sand beaches with turquoise water, and traditional fishing villages. Mid-June means 24-hour daylight (midnight sun).
 

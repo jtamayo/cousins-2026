@@ -1,13 +1,13 @@
 # Option A — Out and Back from Bergen
 
-**Bergen (2N) → Sognefjord / Flam area (3N) → Hardangerfjord area (3N) → Bergen (1N)**
-Shared days: ~9 nights, June 9–18
+**Bergen (2N) → Sognefjord / Flam area (3N) → Hardangerfjord area (3N) → Bergen (2N)**
+Shared days: ~10 nights, June 9–19
 
 ---
 
 ## The idea
 
-Everyone flies into Bergen. You use Bergen as your anchor and explore Norway's two most famous fjord systems — Sognefjord (the longest and deepest) and Hardangerfjord (the "orchard fjord") — as a loop. You return to Bergen around June 18, and the group splits:
+Everyone flies into Bergen. You use Bergen as your anchor and explore Norway's two most famous fjord systems — Sognefjord (the longest and deepest) and Hardangerfjord (the "orchard fjord") — as a loop. You return to Bergen around June 17 with two final nights in the city, and the group splits on June 19:
 
 - **P&L** fly Bergen → Bodo → Lofoten for their adventure week
 - **C&E** head to a second European city (Oslo, Copenhagen, Amsterdam, or Stockholm) for a few more days before flying home ~June 25
@@ -27,6 +27,7 @@ Everyone flies into Bergen. You use Bergen as your anchor and explore Norway's t
 ### Days 1–2: Bergen (June 9–11)
 
 - Arrive, recover from jetlag
+- **Festspillene i Bergen** (Bergen International Festival) runs through Jun 10 — Scandinavia's flagship arts festival (since 1953). Worth catching a performance on arrival night if energy allows
 - Bryggen wharf, fish market, Floibanen funicular
 - Mt. Floyen or Mt. Ulriken hike (easy to moderate, great city views)
 - Coffee, shopping, and dinner in the city center
@@ -52,13 +53,14 @@ Everyone flies into Bergen. You use Bergen as your anchor and explore Norway's t
 - Fruit orchards in bloom, cider tastings
 - Option for a fjord cruise on Hardangerfjord
 
-### Day 9: Return to Bergen (June 17–18)
+### Days 9–10: Return to Bergen (June 17–19)
 
 - Drive back to Bergen (~2.5h from Hardangerfjord)
+- Extra day in Bergen for shopping, coffee, a final hike, or just unwinding
 - Last group dinner
 - Pack and prep for the split
 
-### June 18: Group splits
+### June 19: Group splits
 
 - P&L: fly Bergen → Bodo, ferry/bus to Lofoten
 - C&E: fly Bergen → city of choice, or stay one extra night

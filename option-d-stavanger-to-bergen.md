@@ -1,7 +1,7 @@
 # Option D — Stavanger to Bergen
 
-**Stavanger (2N) → Lysefjord / Preikestolen (2N) → Hardangerfjord (3N) → Bergen (2N)**
-Shared days: ~9 nights, June 9–18
+**Stavanger (2N) → Lysefjord / Preikestolen (2N) → Hardangerfjord (3N) → Bergen (3N)**
+Shared days: ~10 nights, June 9–19
 
 ---
 
@@ -53,15 +53,16 @@ Fly into Stavanger and start with Norway's most dramatic cliff hikes — Preikes
 - Fruit orchards along the fjord (June is blossom season), cider tasting
 - Possible fjord cruise on Hardangerfjord
 
-### Days 8–9: Bergen (June 16–18)
+### Days 8–10: Bergen (June 16–19)
 
 - Drive to Bergen (~2.5h from Hardangerfjord)
 - Bryggen wharf, fish market, Floibanen funicular
 - Mt. Floyen or Ulriken hike
 - Shopping, coffee, exploring the city
+- Extra day to breathe — Bergen rewards unstructured wandering
 - Final group dinners — Bergen has the best restaurant scene on this route
 
-### June 18: Group splits
+### June 19: Group splits
 
 - P&L: fly Bergen → Bodo, then to Lofoten
 - C&E: fly Bergen → onward

@@ -1,8 +1,8 @@
 # Option B — Bergen & Alesund
 
-**Bergen (2N) → Sognefjord / Flam (2N) → Geirangerfjord (2N) → Alesund (2N)**
+**Bergen (2N) → Sognefjord / Flam (3N) → Geirangerfjord (3N) → Alesund (2N)**
 *or the reverse*
-Shared days: ~8 nights, June 9–17
+Shared days: ~10 nights, June 9–19
 
 ---
 
@@ -10,7 +10,7 @@ Shared days: ~8 nights, June 9–17
 
 A one-way road trip between Bergen and Alesund, passing through Sognefjord and Geirangerfjord — Norway's two most iconic fjord systems. You can drive this route in either direction; the stops are the same, but the logistics of getting in and out change. See [Which direction?](#which-direction) below.
 
-After the shared trip ends (~June 17–18), the group splits:
+After the shared trip ends (~June 19), the group splits:
 
 - **P&L** head to Lofoten
 - **C&E** fly to their next city
@@ -25,6 +25,7 @@ The stops below are listed Bergen → Alesund (northbound). If you go southbound
 ### Stop 1: Bergen (2N)
 
 - Arrive, recover from jetlag
+- **Festspillene i Bergen** (Bergen International Festival) runs through Jun 10 — Scandinavia's flagship arts festival. Worth catching a performance on arrival night if energy allows
 - Bryggen wharf, fish market, Floibanen funicular
 - Mt. Floyen or Ulriken hike
 - Coffee, shopping, and dinner in the city

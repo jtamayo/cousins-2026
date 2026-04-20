@@ -1,8 +1,10 @@
 # Norway 2026
 
-Three route options for the group trip. Same group, same dates (June 9–18 together, then split), different shapes. Each one is designed so P&L can get to Lofoten cleanly and everyone else can scatter.
+Three route options for the group trip. Same group, same dates (June 9–19 together, then split), different shapes. Each one is designed so P&L can get to Lofoten cleanly and everyone else can scatter.
 
 ---
+
+**[Read the decision guide first](DECISION.md)** — a 5-minute summary of what each route gets you, what it costs, and what you miss.
 
 ## The three options
 
@@ -74,11 +76,13 @@ A quick reference for the major stops across all three itineraries. See the indi
 
 ---
 
-## After the split (June 18+)
+## After the split (June 19+)
 
 - **P&L**: [Lofoten for ~7 days](lofoten-pl.md), then fly home ~June 25
-- **C&E**: A few days in a Scandinavian or European city (Oslo, Copenhagen, Amsterdam, Stockholm), then fly home ~June 25
+- **C&E**: A few days in a Scandinavian or European city, then fly home ~June 25
 - **J&S**: Continue traveling Europe — Scandinavian cities plus potentially Turkey or another longer destination
+- **[Copenhagen](after-norway-copenhagen.md)** — great food/coffee/biking city. Sankt Hans bonfires on Jun 23
+- **[Stockholm](after-norway-stockholm.md)** — bigger city, archipelago, world-class museums. **Midsommar on Jun 19–20** — arrive the day you split and walk into Sweden's biggest holiday
 
 ---
 
