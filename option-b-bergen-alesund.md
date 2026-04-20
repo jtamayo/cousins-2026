@@ -46,7 +46,7 @@ The stops below are listed Bergen → Alesund (northbound). If you go southbound
 - **Geirangerfjord cruise** — the Seven Sisters and Bridal Veil waterfalls from the water. Private charter boats also available for the group
 - **Dalsnibba viewpoint** (1,500m) — panoramic view of the entire fjord system
 - **Hike to Skageflå** — an abandoned mountain farm clinging to a cliff above the fjord
-- Kayaking on Geirangerfjord (less crowded than Aurlandsfjord, more dramatic)
+- **Guided fjord kayaking** — paddle at water level past the waterfalls and abandoned mountain farms. UNESCO scenery, less crowded than Aurlandsfjord. [Uteguiden](https://uteguiden.com/en/experience/fjord-kayak-geiranger)
 - **E-bike over Flofjellet** (from Hellesylt) — guided e-bike ride through dramatic mountain scenery. Contact [Uteguiden](https://uteguiden.com/en/experience/spectacular-e-bike-flofjellet) for pricing/availability
 
 ### Stop 4: Alesund (2N)
