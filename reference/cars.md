@@ -35,18 +35,6 @@ Group needs 2 cars for 6 people. Prices below are per car unless noted.
 |---|---|---|
 | Bergen round-trip | ~$1,278 | ~$213/person |
 
-## Option C: Stavanger → Bergen one-way
-
-| Route | Pickup | Dropoff | Dates | Price (total, 1 car) | Per day |
-|---|---|---|---|---|---|
-| SVG → BGO | Stavanger Jun 10 | Bergen Jun 18 | 8 days | $918 | ~$115/day |
-
-### For 2 cars (group of 6)
-
-| | 2-car total | Per person |
-|---|---|---|
-| Stavanger → Bergen | ~$1,836 | ~$306/person |
-
 ---
 
 ## Notes

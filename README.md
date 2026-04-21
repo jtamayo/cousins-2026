@@ -1,12 +1,12 @@
 # Norway 2026
 
-Three route options for the group trip. Same group, same dates (June 9–19 together, then split), different shapes. Each one is designed so P&L can get to Lofoten cleanly and everyone else can scatter.
+Two route options for the group trip. Same group, same dates (June 9–19 together, then split), different shapes. Each one is designed so P&L can get to Lofoten cleanly and everyone else can scatter.
 
 ---
 
 **[Read the decision guide first](DECISION.md)** — a 5-minute summary of what each route gets you, what it costs, and what you miss.
 
-## The three options
+## The two options
 
 ### [Option A — Out and Back from Bergen](option-a-bergen-out-and-back.md)
 **Bergen → Sognefjord → Hardangerfjord → Bergen**
@@ -22,57 +22,43 @@ The maximum-scenery road trip. One-way between Bergen and Alesund through Norway
 
 ---
 
-### [Option C — Stavanger to Bergen](option-d-stavanger-to-bergen.md)
-**Stavanger → Lysefjord → Hardangerfjord → Bergen**
-
-The hiking-heavy option. Start in Stavanger with Preikestolen and Lysefjord, drive north through Hardangerfjord and Trolltunga, end in Bergen. You get two of Norway's three famous cliff formations in one trip. The tradeoff: you skip Sognefjord and Geirangerfjord entirely, and it's the most physically demanding route.
-
----
-
 ## Quick comparison
 
-| | A: Bergen loop | B: Bergen ↔ Alesund | C: Stavanger → Bergen |
-|---|---|---|---|
-| **Fjords** | Sognefjord, Hardangerfjord | Sognefjord, Geirangerfjord | Lysefjord, Hardangerfjord |
-| **Big hikes** | Trolltunga | Skageflå, Rimstigen | Preikestolen, Trolltunga |
-| **Iconic drives** | — | Trollstigen (if open) | — |
-| **Wildlife** | Fjord kayaking | Puffins on Runde | Fjord kayaking |
-| **Splitting logistics** | Easy (Bergen) | Depends on direction | Easy (Bergen) |
-| **Total driving** | Least | Most | Medium |
+| | A: Bergen loop | B: Bergen ↔ Alesund |
+|---|---|---|
+| **Fjords** | Sognefjord, Hardangerfjord | Sognefjord, Geirangerfjord |
+| **Big hikes** | Trolltunga | Skageflå, Rimstigen |
+| **Iconic drives** | — | Trollstigen (if open) |
+| **Wildlife** | Fjord kayaking | Puffins on Runde |
+| **Splitting logistics** | Easy (Bergen) | Depends on direction |
+| **Total driving** | Least | Most |
+| **Car rental (2 cars)** | **$1,278** | $2,250–$3,422 |
 
 ---
 
 ## Destination guide
 
-A quick reference for the major stops across all three itineraries. See the individual option pages for day-by-day details.
+A quick reference for the major stops across both itineraries. See the individual option pages for day-by-day details.
 
 ### Cities
 
-**Bergen** — Norway's second city, wedged between seven mountains and a UNESCO-listed wooden wharf. The main gateway to the fjords, with the best restaurant scene, shopping, and international flight connections of any city on these routes. Included in all three options.
+**Bergen** — Norway's second city, wedged between seven mountains and a UNESCO-listed wooden wharf. The main gateway to the fjords, with the best restaurant scene, shopping, and international flight connections of any city on these routes. Included in both options.
 
 **Alesund** — A small coastal city rebuilt entirely in Art Nouveau style after a 1904 fire. Known for its harbor-front seafood restaurants, the Aksla viewpoint, and boat access to Runde Island's massive seabird colonies (puffins, gannets, sea eagles). Included in Option B.
 
-**Stavanger** — Norway's oil capital, but also a charming old town of white wooden houses, a colorful street of independent shops (Ovre Holmegate), and a strong food scene. The gateway to Lysefjord and Preikestolen. Included in Option C.
-
 ### Fjords
 
-**Sognefjord** — Norway's longest (205km) and deepest (1,308m) fjord. The branch called Nærøyfjord is UNESCO-listed. The Flam Railway runs down to the fjord floor — one of the world's most scenic train rides. Kayaking on Aurlandsfjord is a highlight. The classic "Norway in a Nutshell" experience. Included in Options A and B.
+**Sognefjord** — Norway's longest (205km) and deepest (1,308m) fjord. The branch called Nærøyfjord is UNESCO-listed. The Flam Railway runs down to the fjord floor — one of the world's most scenic train rides. Kayaking on Aurlandsfjord is a highlight. The classic "Norway in a Nutshell" experience. Included in both options.
 
-**Hardangerfjord** — Known as the "orchard fjord" for the fruit trees that bloom along its banks in late May/June. Less dramatic than Sognefjord but more varied — you get glacier lakes, the Hardangervidda plateau (Norway's largest national park), and the adventure-sports town of Voss. Included in Options A and C.
+**Hardangerfjord** — Known as the "orchard fjord" for the fruit trees that bloom along its banks in late May/June. Less dramatic than Sognefjord but more varied — you get glacier lakes, the Hardangervidda plateau (Norway's largest national park), and the adventure-sports town of Voss. Included in Option A.
 
 **Geirangerfjord** — A short, narrow, UNESCO-listed fjord with near-vertical walls and famous waterfalls (Seven Sisters, Bridal Veil). Arguably Norway's single most dramatic piece of scenery. Accessible via the Dalsnibba viewpoint at 1,500m. Included in Option B.
 
-**Lysefjord** — A steep-walled fjord near Stavanger, best known for the cliffs above it: Preikestolen and Kjeragbolten. Less touristy than the northern fjords, with a wilder feel. Accessible by cruise boat from Stavanger or by hiking down from the plateau. Included in Option C.
-
 ### Iconic hikes
 
-**Preikestolen (Pulpit Rock)** — A flat-topped cliff platform 604m above Lysefjord. 4h round trip, moderate difficulty. Shorter and more accessible than Trolltunga — a good warm-up for the group. Included in Option C.
-
-**Trolltunga** — A narrow rock shelf jutting horizontally out over a 700m drop above Lake Ringedalsvatnet. 10–12h round trip, very demanding. Norway's most famous photo spot. Not for everyone, but unforgettable for those who do it. Included in Options A and C.
+**Trolltunga** — A narrow rock shelf jutting horizontally out over a 700m drop above Lake Ringedalsvatnet. 10–12h round trip, very demanding. Norway's most famous photo spot. Not for everyone, but unforgettable for those who do it. Included in Option A.
 
 **Trollstigen** — Not a hike but a mountain road: 11 hairpin turns climbing a near-vertical valley with waterfalls on both sides. Usually opens late May but snow years can delay into June. Included in Option B (if open).
-
-**Kjeragbolten** — A boulder wedged between two cliff faces 1,000m above Lysefjord. 6–8h round trip, demanding. Standing on the boulder for a photo is a bucket-list moment. Included in Option C (optional).
 
 ---
 
@@ -89,4 +75,6 @@ A quick reference for the major stops across all three itineraries. See the indi
 ## Reference
 
 - [Trip requirements and preferences](reference/requirements.md)
-- Earlier trip proposals (Japan, Sicily, Azores) are in the [archive](archive/) folder
+- [Flight research](reference/flights.md)
+- [Car rental research](reference/cars.md)
+- Earlier trip proposals (Japan, Sicily, Azores, Stavanger) are in the [archive](archive/) folder

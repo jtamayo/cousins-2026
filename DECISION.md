@@ -6,17 +6,17 @@ We need to pick a route so we can book flights. This is a summary of the tradeof
 
 ## The options at a glance
 
-| | [A: Bergen Loop](option-a-bergen-out-and-back.md) | [B: Bergen ↔ Alesund](option-b-bergen-alesund.md) | [C: Stavanger → Bergen](option-d-stavanger-to-bergen.md) |
-|---|---|---|---|
-| Route | Bergen → Sognefjord → Hardangerfjord → Bergen | Bergen ↔ Alesund via Sognefjord & Geirangerfjord | Stavanger → Lysefjord → Hardangerfjord → Bergen |
-| Direction choice? | No | Yes (see below) | No |
-| Days together | 10 nights (Jun 9–19) | 10 nights (Jun 9–19) | 10 nights (Jun 9–19) |
+| | [A: Bergen Loop](option-a-bergen-out-and-back.md) | [B: Bergen ↔ Alesund](option-b-bergen-alesund.md) |
+|---|---|---|
+| Route | Bergen → Sognefjord → Hardangerfjord → Bergen | Bergen ↔ Alesund via Sognefjord & Geirangerfjord |
+| Direction choice? | No | Yes (see below) |
+| Days together | 10 nights (Jun 9–19) | 10 nights (Jun 9–19) |
 
 ---
 
 ## Rank by simplicity
 
-### 1. Option A — Bergen Loop (simplest)
+### 1. Option A — Bergen Loop (simpler)
 
 - Round-trip flights into/out of Bergen — cheapest and most available
 - Round-trip car rental — **no drop-off fees**
@@ -24,14 +24,7 @@ We need to pick a route so we can book flights. This is a summary of the tradeof
 - No direction decision needed
 - **Car rental: ~$1,278 for 2 cars ($213/person)**
 
-### 2. Option C — Stavanger to Bergen (moderate)
-
-- One-way, but both airports are well-connected European hubs
-- One-way car rental is reasonable (not as cheap as round-trip, not as bad as Alesund)
-- Everyone splits from Bergen — same easy airport
-- **Car rental: ~$1,836 for 2 cars ($306/person)**
-
-### 3. Option B — Bergen & Alesund (most complex)
+### 2. Option B — Bergen & Alesund (more complex)
 
 - One-way between two cities, one of which (Alesund) is a small airport
 - Requires choosing a direction (see below), and each direction has different tradeoffs
@@ -54,45 +47,48 @@ Southbound is cheaper and better for P&L. Northbound has an easier inbound fligh
 
 ## What you get and what you miss
 
-This is the key question. Every route covers ~10 days of fjords, hikes, and Norwegian towns. The difference is *which* highlights you see.
+This is the key question. Both routes cover ~10 days of fjords, hikes, and Norwegian towns. The difference is *which* highlights you see.
 
 ### The big attractions, mapped to routes
 
-| Attraction | A | B | C | What is it |
-|---|---|---|---|---|
-| **Sognefjord / Flam Railway** | Yes | Yes | — | Norway's longest fjord + iconic scenic train ride. The classic "Norway in a Nutshell" |
-| **Geirangerfjord** | — | Yes | — | UNESCO fjord with vertical walls and famous waterfalls. Arguably the single most dramatic view |
-| **Hardangerfjord / Voss** | Yes | — | Yes | "Orchard fjord" + Norway's adventure sports town (rafting, paragliding, zipline) |
-| **Lysefjord** | — | — | Yes | Steep wild fjord near Stavanger, less touristy |
-| **Trolltunga** | Yes | — | Yes | The iconic rock shelf photo. 10–12h, very demanding |
-| **Preikestolen** | — | — | Yes | Pulpit Rock — 604m cliff, 4h round trip, more accessible |
-| **Trollstigen** | — | Maybe | — | Famous hairpin mountain road (may be closed in mid-June) |
-| **Nigardsbreen glacier** | Yes | Yes | — | Guided walks on blue ice, Europe's largest glacier |
-| **Puffins (Runde Island)** | — | Yes | — | 500,000 seabirds nesting in June, boat trip from Alesund |
-| **Alesund** | — | Yes | — | Art Nouveau coastal town, aquarium, coasteering, wildlife safari |
-| **Kjeragbolten** | — | — | Yes | Boulder wedged between cliffs 1,000m up. Bucket-list photo op |
-| **Bergen** | Yes (4N) | Yes (2N) | Yes (3N) | Norway's most charming city, best food scene, Bryggen wharf |
-| **Festspillene** (Bergen Intl Festival) | Tail end | Tail end | — | Scandinavia's flagship arts festival, ends Jun 10 |
+| Attraction | A | B | What is it |
+|---|---|---|---|
+| **Sognefjord / Flam Railway** | Yes | Yes | Norway's longest fjord + iconic scenic train ride. The classic "Norway in a Nutshell" |
+| **Geirangerfjord** | — | Yes | UNESCO fjord with vertical walls and famous waterfalls. Arguably the single most dramatic view |
+| **Hardangerfjord / Voss** | Yes | — | "Orchard fjord" + Norway's adventure sports town (rafting, paragliding, zipline) |
+| **Trolltunga** | Yes | — | The iconic rock shelf photo. 10–12h, very demanding |
+| **Trollstigen** | — | Maybe | Famous hairpin mountain road (may be closed in mid-June) |
+| **Nigardsbreen glacier** | Yes | Yes | Guided walks on blue ice, Europe's largest glacier |
+| **Puffins (Runde Island)** | — | Yes | 500,000 seabirds nesting in June, boat trip from Alesund |
+| **Alesund** | — | Yes | Art Nouveau coastal town, aquarium, coasteering, wildlife safari |
+| **Bergen** | Yes (4N) | Yes (2N) | Norway's most charming city, best food scene, Bryggen wharf |
+| **Festspillene** (Bergen Intl Festival) | Tail end | Tail end | Scandinavia's flagship arts festival, ends Jun 10 |
 
 ### What you miss by route
 
-**If you pick A (Bergen Loop):** No Geirangerfjord, no Alesund, no puffins, no Preikestolen, no Trollstigen. You get the classic Sognefjord + Hardangerfjord combo with Trolltunga and the glacier, and the most time in Bergen.
+**If you pick A (Bergen Loop):** No Geirangerfjord, no Alesund, no puffins, no Trollstigen. You get the classic Sognefjord + Hardangerfjord combo with Trolltunga and the glacier, and the most time in Bergen.
 
-**If you pick B (Bergen ↔ Alesund):** No Trolltunga, no Hardangerfjord, no Preikestolen, no Lysefjord. You get the two most famous fjords (Sognefjord + Geirangerfjord), puffins, Alesund, and possibly Trollstigen. The most scenic route, but the weakest hiking and the most expensive/complex logistics.
+**If you pick B (Bergen ↔ Alesund):** No Trolltunga, no Hardangerfjord, no Voss. You get the two most famous fjords (Sognefjord + Geirangerfjord), puffins, Alesund, and possibly Trollstigen. The most scenic route, but the weakest hiking and the most expensive/complex logistics.
 
-**If you pick C (Stavanger → Bergen):** No Sognefjord, no Flam Railway, no Geirangerfjord, no Alesund, no puffins, no Trollstigen. You get the best hiking (Preikestolen + Trolltunga + Kjeragbolten), two different fjord systems, and earliest arrival on day 1. The most physically demanding route.
+### Who might care about what
+
+- **Trolltunga** (Option A only): Phil, Christian, and Juan would probably want this. It's the single most iconic Norway photo. But it's a 10–12h day — Eliza and Steph might prefer alternatives
+- **Geirangerfjord** (Option B only): Christian would love the photos. It's arguably the most dramatic single view in Norway
+- **Puffins** (Option B only): Steph and Eliza would love Runde Island. This is the best wildlife experience on the shared trip
+- **Voss adventure sports** (Option A only): Phil and Christian for rafting/paragliding. Good adrenaline day
+- **Trollstigen** (Option B only): Great for photos, but may be closed in mid-June — it's a gamble
 
 ---
 
 ## Cost comparison (what we know so far)
 
-| | A: Bergen Loop | B: Southbound | B: Northbound | C: Stavanger→Bergen |
-|---|---|---|---|---|
-| Car rental (2 cars) | **$1,278** | $2,250 | $3,422 | $1,836 |
-| Car per person | **$213** | $375 | $570 | $306 |
-| Difference vs. cheapest | — | +$972 | +$2,144 | +$558 |
+| | A: Bergen Loop | B: Southbound | B: Northbound |
+|---|---|---|---|
+| Car rental (2 cars) | **$1,278** | $2,250 | $3,422 |
+| Car per person | **$213** | $375 | $570 |
+| Difference vs. cheapest | — | +$972 | +$2,144 |
 
-Flight prices TBD — we have schedules confirmed but haven't compared fares yet.
+Option A saves **$162–$357 per person** on car rental alone. Flight prices TBD.
 
 ---
 
@@ -100,7 +96,7 @@ Flight prices TBD — we have schedules confirmed but haven't compared fares yet
 
 The route you pick determines where everyone splits from, which affects how easy it is for each couple to get where they're going. This matters — a bad split-day connection can eat half a day or force a 5 AM wake-up.
 
-### Splitting from Bergen (Options A, B southbound, C)
+### Splitting from Bergen (Option A, or B southbound)
 
 | Who | Flight | Departure | Arrival | Connection | Notes |
 |---|---|---|---|---|---|
@@ -134,7 +130,7 @@ The route and the after-Norway city interact. Here's the honest picture:
 
 **In other words:**
 - **Copenhagen → leans toward Option B northbound** (the direct AES → CPH flight is a real perk)
-- **Stockholm → no strong preference on direction** (Bergen split is marginally better, which favors Options A, B southbound, or C)
+- **Stockholm → no strong preference on direction** (Bergen split is marginally better, which favors Option A or B southbound)
 
 ---
 
@@ -165,10 +161,14 @@ Copenhagen has the edge on the way home: direct to SFO, midday departure. Stockh
 
 ## The bottom line
 
-There's no wrong answer — all three routes are great. The real question is what the group values most:
+There's no wrong answer — both routes are great. The real question is what the group values most:
 
-- **"Keep it simple and affordable"** → Option A
-- **"We want the most dramatic scenery possible"** → Option B
-- **"We're here to hike and we want the iconic photos"** → Option C
+- **"Keep it simple and affordable"** → Option A. Cheapest car rental, easiest logistics, Trolltunga, glacier, more time in Bergen. You give up Geirangerfjord and puffins.
+- **"We want the most dramatic scenery possible"** → Option B. Geirangerfjord, puffins, Alesund, possibly Trollstigen. More expensive, more driving, and you have to pick a direction — which depends on whether C&E want Copenhagen or Stockholm after.
+
+And the after-Norway city:
+
+- **Stockholm** → best if you value the Midsommar experience (Jun 19–20). Doesn't strongly favor either route direction, so pick based on scenery/cost preference.
+- **Copenhagen** → best if you value a simpler trip home (direct CPH → SFO). If you pick Copenhagen, Option B northbound becomes the cleanest overall itinerary for C&E.
 
 What do you think?

@@ -102,7 +102,7 @@ Same as the Copenhagen variant above (SAS via CPH):
 
 ## C&E — Southbound + Stockholm (into Alesund via KLM, home from Stockholm via AMS)
 
-Works with Option B southbound (Alesund → Bergen) or Option C (Stavanger → Bergen).
+Works with Option B southbound (Alesund → Bergen).
 
 ### SFO → Alesund (Jun 9)
 
@@ -148,12 +148,12 @@ Same as the KLM Bergen option above:
 - **6:30 AM Stockholm departure is brutal** — ~4 AM airport arrival, on the last night of the trip
 - The 5h15m AMS inbound layover + 6:30 AM homebound departure make this the least comfortable routing overall
 - Lowest CO2 of all options (470 kg return leg, 561 kg inbound)
-- **Works with more route options** than the northbound SAS variant: compatible with Option B southbound and Option C, since it flies out of Bergen
+- **Works with more route options** than the northbound SAS variant: compatible with Option B southbound, since it flies out of Bergen
 - Bergen → Stockholm found: Finnair AY 806, BGO 10:50 AM → ARN 12:10 PM, direct. Arrives in time for Midsommar
 
 ---
 
-## P&L — Bergen → Lofoten (works with Options A, B southbound, C)
+## P&L — Bergen → Lofoten (works with Option A or B southbound)
 
 ### Bergen → Bodo (Jun 19)
 
@@ -166,7 +166,7 @@ Same as the KLM Bergen option above:
 
 ### Implications
 
-- Works with any route that ends in Bergen (Options A, B southbound, C)
+- Works with any route that ends in Bergen (Option A or B southbound)
 - Same-day Lofoten arrival is realistic: if the Moskenes ferry departs ~2–3 PM, P&L reach Reine by evening
 
 ---
@@ -193,67 +193,26 @@ Same as the KLM Bergen option above:
 
 ---
 
-## C&E — Option C + Stockholm (into Stavanger via KLM, home from Stockholm via AMS)
-
-### SFO → Stavanger (Jun 9)
-
-| Leg | Depart | Arrive | Duration | Airline | Aircraft | Notes |
-|---|---|---|---|---|---|---|
-| SFO → AMS | 1:45 PM Jun 9 | 9:05 AM Jun 10 | 10h 20m | KLM KL 606 | 787-10 | 31" legroom, Wi-Fi ($), USB |
-| AMS → SVG | 9:55 AM Jun 10 | 11:25 AM Jun 10 | 1h 30m | KLM KL 1175 | E195 E2 | 29" legroom |
-
-- Layover in AMS: 50 min (tight but legal — same airline, same terminal)
-- CO2: 489 kg (28% below average)
-
-### Bergen → Stockholm (Jun 19)
-
-Same as above: Finnair AY 806, BGO 10:50 AM → ARN 12:10 PM, direct.
-
-### Stockholm → SFO (Jun 23)
-
-Same as the KLM southbound Stockholm option: ARN 6:30 AM → AMS 8:35 AM → SFO 11:45 AM.
-
-- CO2: 470 kg (30% below average)
-
-### Summary
-
-- Arrives Stavanger: 11:25 AM Jun 10 (earliest arrival of any option!)
-- Leaves Bergen: 10:50 AM Jun 19
-- Stockholm: Jun 19 afternoon – Jun 23 early morning (~4 nights, Midsommar)
-- Returns SFO: 11:45 AM Jun 23
-- KLM in/out, Finnair middle leg
-
-### Implications
-
-- **Best inbound of any option** — 50 min AMS layover and arrives Stavanger 11:25 AM, a full afternoon on day 1
-- Lowest total CO2 (489 + 87 + 470 = 1,046 kg)
-- The 50 min AMS layover is tight — any delay on the transatlantic leg is a problem
-- Same 6:30 AM ARN departure home as the other KLM options
-- **First flight option that works with Option C** (Stavanger → Bergen)
-- P&L fly BGO → BOO (same Wideroe direct, 10:30 AM → 12:20 PM)
-
----
-
 ## C&E flight options — comparison
 
-| | SAS north + CPH | SAS north + Stockholm | KLM south + Bergen | KLM south + Stockholm | KLM Stavanger + Stockholm |
-|---|---|---|---|---|---|
-| Fly into | Bergen (via CPH) | Bergen (via CPH) | Alesund (via AMS) | Alesund (via AMS) | Stavanger (via AMS) |
-| Inbound layover | 2h 10m | 2h 10m | 5h 15m | 5h 15m | 50 min (tight) |
-| Arrive day 1 | 3:35 PM | 3:35 PM | 4:20 PM | 4:20 PM | **11:25 AM** |
-| Split from | Alesund | Alesund | Bergen | Bergen | Bergen |
-| Norway → city | AES→CPH 1h35m | AES→ARN 9:30–12:40 | — | BGO→ARN 10:50–12:10 | BGO→ARN 10:50–12:10 |
-| After-Norway | Copenhagen (5N) | Stockholm (4N) | Bergen (5N) | Stockholm (4N) | Stockholm (4N) |
-| Key event | Sankt Hans Jun 23 | **Midsommar** (12:40 PM) | — | **Midsommar** (12:10 PM) | **Midsommar** (12:10 PM) |
-| Home departure | CPH 12:45 PM | ARN 10:25 AM | BGO 6:00 AM | ARN 6:30 AM | ARN 6:30 AM |
-| Home layover | — (direct) | 1h 10m CPH (tight) | 2h 05m AMS | 1h 15m AMS | 1h 15m AMS |
-| Comfort | **Best** | Good | Worst | Bad | Mixed (great in, bad out) |
-| Route compat. | Option B north | Option B north | Option B south / C | Option B south / C | **Option C only** |
-| Total CO2 | 1,240 kg | ~1,300 kg | 1,031 kg | 1,031 kg | **1,046 kg** |
+| | SAS north + CPH | SAS north + Stockholm | KLM south + Bergen | KLM south + Stockholm |
+|---|---|---|---|---|
+| Fly into | Bergen (via CPH) | Bergen (via CPH) | Alesund (via AMS) | Alesund (via AMS) |
+| Inbound layover | 2h 10m | 2h 10m | 5h 15m | 5h 15m |
+| Arrive day 1 | 3:35 PM | 3:35 PM | 4:20 PM | 4:20 PM |
+| Split from | Alesund | Alesund | Bergen | Bergen |
+| Norway → city | AES→CPH 1h35m | AES→ARN 9:30–12:40 | — | BGO→ARN 10:50–12:10 |
+| After-Norway | Copenhagen (5N) | Stockholm (4N) | Bergen (5N) | Stockholm (4N) |
+| Key event | Sankt Hans Jun 23 | **Midsommar** (12:40 PM) | — | **Midsommar** (12:10 PM) |
+| Home departure | CPH 12:45 PM | ARN 10:25 AM | BGO 6:00 AM | ARN 6:30 AM |
+| Home layover | — (direct) | 1h 10m CPH (tight) | 2h 05m AMS | 1h 15m AMS |
+| Comfort | **Best** | Good | Worst | Bad |
+| Route compat. | Option B north | Option B north | Option B south | Option B south |
+| Total CO2 | 1,240 kg | ~1,300 kg | 1,031 kg | 1,031 kg |
 
 ---
 
-## C&E — Option B southbound / Option C (into Alesund, home from Bergen)
+## C&E — Option B southbound (into Alesund, home from Bergen)
 
 ### SFO → Alesund (Jun 9)
 
@@ -284,7 +243,7 @@ Same as the KLM southbound Stockholm option: ARN 6:30 AM → AMS 8:35 AM → SFO
 
 ### Implications
 
-- **Favors southbound direction** (Alesund → Bergen) or **Option C** (Stavanger → Bergen): C&E end in Bergen and fly home from there
+- **Favors southbound direction** (Alesund → Bergen): C&E end in Bergen and fly home from there
 - The 5h15m AMS layover on the way in is noticeably worse than the 2h10m CPH layover in the northbound/SAS option
 - The 6:00 AM departure home is rough
 - **Copenhagen gap**: if C&E want Copenhagen, they'd need to fly BGO → CPH and then back to BGO for the flight home (awkward), or skip Copenhagen and spend the post-split days in Bergen or elsewhere reachable by land
