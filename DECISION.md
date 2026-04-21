@@ -96,9 +96,51 @@ Flight prices TBD — we have schedules confirmed but haven't compared fares yet
 
 ---
 
+## Split-day logistics (June 19)
+
+The route you pick determines where everyone splits from, which affects how easy it is for each couple to get where they're going. This matters — a bad split-day connection can eat half a day or force a 5 AM wake-up.
+
+### Splitting from Bergen (Options A, B southbound, C)
+
+| Who | Flight | Departure | Arrival | Connection | Notes |
+|---|---|---|---|---|---|
+| P&L → Bodo | Wideroe direct | 10:30 AM | 12:20 PM | None | Clean. Afternoon ferry to Lofoten, arrive Reine by evening |
+| C&E → Stockholm | Finnair direct | 10:50 AM | 12:10 PM | None | Clean. Arrive in time for Midsommar |
+| C&E → Copenhagen | TBD | ~midday | ~early afternoon | Likely direct, ~1.5h | Need to find specific flight |
+
+Bergen is an easy split point for everyone. Direct flights in all directions, civilized departure times.
+
+### Splitting from Alesund (Option B northbound)
+
+| Who | Flight | Departure | Arrival | Connection | Notes |
+|---|---|---|---|---|---|
+| P&L → Bodo | Norwegian via Oslo | **6:45 AM** | 10:30 AM | 1h 20m in OSL | Works, but 5 AM wake-up after last group dinner |
+| C&E → Stockholm | Norwegian via Oslo | 9:30 AM | 12:40 PM | 1h 15m in OSL | Fine. Arrive in time for Midsommar |
+| C&E → Copenhagen | **SAS direct** | 2:45 PM | 4:20 PM | **None** | The cleanest split-day flight of all |
+
+Alesund is a small airport, so everything except Copenhagen requires connecting through Oslo. The one thing it does better than Bergen is the **direct flight to Copenhagen** — 1h35m, no connection, afternoon departure.
+
+### What this means for the route + after-Norway decision
+
+The route and the after-Norway city interact. Here's the honest picture:
+
+**If C&E pick Copenhagen:**
+- Option B northbound has a real advantage — AES → CPH is direct, and C&E's full routing (SAS via CPH in, AES → CPH, CPH → SFO direct) is the cleanest, most comfortable itinerary we've found. All SAS, no tight connections, midday departure home.
+- Splitting from Bergen is fine too but requires finding a BGO → CPH flight (likely exists, ~1.5h, but we haven't priced it yet).
+
+**If C&E pick Stockholm:**
+- The northbound advantage mostly disappears. Both Bergen and Alesund get C&E to Stockholm around noon on Midsommar Eve. Bergen does it direct (Finnair, 1h20m), Alesund does it via Oslo (Norwegian, 3h10m total) — Bergen is cleaner but both work.
+- Splitting from Bergen is slightly better for P&L (direct to Bodo at 10:30 AM vs. 6:45 AM via Oslo from Alesund).
+
+**In other words:**
+- **Copenhagen → leans toward Option B northbound** (the direct AES → CPH flight is a real perk)
+- **Stockholm → no strong preference on direction** (Bergen split is marginally better, which favors Options A, B southbound, or C)
+
+---
+
 ## After Norway: Stockholm vs. Copenhagen
 
-Separate from the route decision, but worth thinking about together since it affects flight bookings.
+The route decision and the city decision are linked (see above), but here's the city comparison on its own merits.
 
 | | Stockholm | Copenhagen |
 |---|---|---|
@@ -108,6 +150,16 @@ Separate from the route decision, but worth thinking about together since it aff
 | **Duration** | 3–4 nights is right | 2–3 nights is right (5 is too many) |
 
 Stockholm with Midsommar timing is pretty compelling, especially for Christian's "events" preference.
+
+### Getting home from the after-Norway city
+
+| | From Copenhagen | From Stockholm |
+|---|---|---|
+| Best routing | CPH → SFO direct, SAS, **12:45 PM** departure | ARN → CPH → SFO, SAS, 10:25 AM departure (1h10m layover, tight) |
+| Alternative | — | ARN → AMS → SFO, KLM, **6:30 AM** departure (brutal) |
+| Comfort | **Better** — direct flight, midday | Worse — connection + earlier departure |
+
+Copenhagen has the edge on the way home: direct to SFO, midday departure. Stockholm requires a connection (either tight through CPH, or a 6:30 AM through AMS).
 
 ---
 
